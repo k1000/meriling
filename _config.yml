@@ -8,19 +8,19 @@ navigation:
     url: /archive.html
   - text: Imprint
     url: /imprint.html
+profiles:
+  - label: google+
+    url: https://plus.google.com/102721572594228637143/posts
+  - label: facebook
+    url: https://www.facebook.com/meriling
+  - label: twitter
+    url: https://twitter.com/meriling/
+  - label: YouTube
+    url: https://www.youtube.com/user/meriling
 disqus:author:
   name: Meriling
   email: info@meriling.es
   nick: meriling
-  profiles:
-    - label: google+
-      url: https://plus.google.com/102721572594228637143/posts
-    - label: facebook
-      url: https://www.facebook.com/meriling
-    - label: twitter
-      url: https://twitter.com/meriling/
-    - label: YouTube
-      url: https://www.youtube.com/user/meriling
   config:
     - label: disqus_shortname
       value: 'havvgsplayground'
