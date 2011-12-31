@@ -15,4 +15,4 @@ Chögyal Namkhai Norbu es reconocido como una autoridad líder en cultura tibeta
 
 En 1976 Chögyal Namkhai Norbu a petición de un grupo de estudiantes, comenzó a dar Enseñanzas de Dzogchen, primero en Italia, después en muchos otros países. Rápidamente se convirtió en una autoridad espiritual, y creó la Comunidad Dzogchén: Una comunidad internacional formada por centros en todo el mundo para el estudio de Dzogchén. Desde hace ya varios años Chögyal Namkhai Norbu ha estado viajando incansablemente por todo el mundo dando a conocer las enseñanzas Dzogchén y salvaguardando la cultura tibetana.
 
-fuente: www.dzogchen.es
+* fuente: [www.dzogchen.es]<http://www.dzogchen.es "Comunidad Dzogchen de España">

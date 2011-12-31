@@ -1,7 +1,6 @@
 ---
 layout: site
 title: La Comunidad Dzogchen
-section: azul
 categories: azul comunidad
 ---
 La Comunidad Dzogchen es una amplia asociación de personas interesadas en desarrollar el conocimiento del individuo a través de las enseñanzas de Dzogchen Ati y que las siguen bajo la guía de un maestro que posee el auténtico conocimiento del estado de Dzogchen. Los miembros estudian y practican, según sus capacidades individuales, las enseñanzas además de fomentar las circunstancias necesarias para estas actividades.
@@ -14,4 +13,4 @@ Puesto que la Comunidad se compone de individuos explícitamente comprometidos c
 
 Al reconocer el extraordinario valor de las enseñanzas Dzogchen como sendero de liberación, la Comunidad se esfuerza en profundizar en su conocimiento, realizarlas en sus vidas y en preservarlas en su estado puro para que todos los seres, actuales y futuros, puedan beneficiarse de ellas.
 
-fuente: www.dzogchen.es
+* fuente: [www.dzogchen.es]<http://www.dzogchen.es "Comunidad Dzogchen de España">

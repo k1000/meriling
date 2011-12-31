@@ -11,4 +11,4 @@ La Danza del Vajra utiliza el sonido y el movimiento para armonizar la energía 
 
 En el siguiente enlace se puede entrar en la página oficial de la Danza del Vajra de la Comunidad Dzogchén internacional.
 
-fuente: www.dzogchen.es
+* fuente: [www.dzogchen.es]<http://www.dzogchen.es "Comunidad Dzogchen de España">
