@@ -1,6 +1,7 @@
 ---
-layout: site
+layout: azul
 categories: azul comunidad
+title: Comunidad en el Mundo
 ---
 La Comunidad Dzogchen está formada por aquellos interesados en practicar las enseñanzas Dzogchen. Fue fundada por Chögyal Namkhai Norbu Rinpoche en Italia en la segunda mitad de los años setenta y se desarrolló rápidamente en varios países alrededor del mundo, tomando por completo una dimensión internacional.
 
@@ -21,36 +22,36 @@ La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogch
  
 Gares en el mundo:
 
-Merigar West - Europe (Italy) www.dzogchen.it
-Merigar East - Europe (Romania) www.dzogchen.ro
-Kunsangar South - Ukraina http://www.dzogchencommunity.ru
-Tsegyalgar East - North America (Massachusetts, USA) www.tsegyalgareast.org
-Tsegyalgar West - North America (Baja, Mexico) www.tsegyalgarwest.org
-Tashigar Norte - South America (Venezuela) www.tashigarnorte.org
-Tashigar Sur - South America (Argentina) www.tashigar-sur.com.ar
-Namgyalgar - Oceania (Australia) www.dzogchen.org.au
+	- Merigar West - Europe (Italy) <www.dzogchen.it>
+	- Merigar East - Europe (Romania) <www.dzogchen.ro>
+	- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
+	- Tsegyalgar East - North America (Massachusetts, USA) <http://www.tsegyalgareast.org>
+	- Tsegyalgar West - North America (Baja, Mexico) <www.tsegyalgarwest.org>
+	- Tashigar Norte - South America (Venezuela) <www.tashigarnorte.org>
+	- Tashigar Sur - South America (Argentina) <www.tashigar-sur.com.ar>
+	- Namgyalgar - Oceania (Australia) <www.dzogchen.org.au>
  
 Lings:
 USA
-	Kundrolling, NYC www.nydzogchen.com
-	Dondrupling, Berkeley California www.dzogchencommunitywest.org
-	Seattle, Washington www.dzogchenseattle.org
+	- Kundrolling, NYC www.nydzogchen.com
+	- Dondrupling, Berkeley California <www.dzogchencommunitywest.org>
+	- Seattle, Washington www.dzogchenseattle.org
 	 
-Europe
-	Austria www.dzogchen.at
-	Czech Republic www.dzogchen.cz
-	France www.association-dzogchen.org
-	Germany www.dzogchen.de
-	Great Britain www.dzogchencommunity.org
-	Greece www.dzogchen.gr
-	Holland www.dzogchen.nl
-	Hungary www.dzogchen.hu
-	Lithuania www.dzogchen.lt
-	Poland www.dzogczen.pl
-	Slovakia www.dzogchen.sk
-	Switzerland www.dzogchen.ch
-	Spain Kundusling www.dzogchen.es
-	Italy merigar.it
-	Russian-Speaking Countries www.dzogchencommunity.ru
+Europa
+	- Austria <www.dzogchen.at>
+	- Czech Republic <www.dzogchen.cz>
+	- France <www.association-dzogchen.org>
+	- Germany <www.dzogchen.de>
+	- Great Britain <www.dzogchencommunity.org>
+	- Greece <www.dzogchen.gr>
+	- Holland <www.dzogchen.nl>
+	- Hungary <www.dzogchen.hu>
+	- Lithuania <www.dzogchen.lt>
+	- Poland <www.dzogczen.pl>
+	- Slovakia <www.dzogchen.sk>
+	- Switzerland <www.dzogchen.ch>
+	- Spain Kundusling <www.dzogchen.es>
+	- Italy <www.merigar.it>
+	- Russian-Speaking Countries <www.dzogchencommunity.ru>
 Others
-	Israel dzogchen.org.il
+	Israel <dzogchen.org.il>

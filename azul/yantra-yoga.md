@@ -11,7 +11,7 @@ El Yantra Yoga es un método fundamental para integrar la profunda esencia de la
 
 Web oficial de la Comunidad Dzogchén internacional sobre Yantra Yoga: <http://www.yantrayoga.org/>
 
-* fuente: <http://www.dzogchen.es>
+*fuente: <http://www.dzogchen.es>*
 
 A continuación el trailer (en inglés) del DVD sobre Yantra Yoga que saldrá próximamente, se puede encontrar en YouTube: ”TIBETAN YOGA OF MOVEMENT: Perfect Rythm of Life (Trailer)”. <http://www.youtube.com/watch?v=a49LPprc0ZI>
  
