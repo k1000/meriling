@@ -5,10 +5,10 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<base href="http://k1000.github.com/meriling/" target="_blank" />
+	<base href="{{site.base}}" target="_self" />
 
 	<title>{% if page.title %}{{ page.title }} on {% endif %}{{ site.title }}</title>
-	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }}" />
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} {{ page.title }}" />
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -37,7 +37,7 @@
 
 {% include footer.html %}
   <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
-  <script src="../javascripts/tabs.js"></script>
+  <script src="javascripts/tabs.js"></script>
   <script>
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', '{{ site.googleanalytics.account }}']);
