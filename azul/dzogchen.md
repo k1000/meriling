@@ -19,5 +19,6 @@ El Cristal y la Vía de la Luz de [Chögyal Namkhai Norbu]<azul/chogyal-namkhai-
 Beyond Words - Dzogchen Made Simple de Julia Lawless and Judith Allan, 
 con introducción de [Chögyal Namkhai Norbu]<azul/chogyal-namkhai-norbu> (Ed Element de HarperCollins)
 
-* fuente: <http://www.dzogchen.es>
+*fuente: <http://www.dzogchen.es>*
+
  

@@ -13,4 +13,4 @@ Puesto que la Comunidad se compone de individuos explícitamente comprometidos c
 
 Al reconocer el extraordinario valor de las enseñanzas Dzogchen como sendero de liberación, la Comunidad se esfuerza en profundizar en su conocimiento, realizarlas en sus vidas y en preservarlas en su estado puro para que todos los seres, actuales y futuros, puedan beneficiarse de ellas.
 
-* fuente: <http://www.dzogchen.es>
+*fuente: <http://www.dzogchen.es>*
