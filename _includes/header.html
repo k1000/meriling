@@ -1,9 +1,8 @@
 <header>
-  <h1>{{ site.title }}</h1>
-  <p>{{ site.strapline }}</p>
-  {% if site.navigation %}
+  {% if page.title %} <h1>{{ page.title }}</h1> {% endif %}
+  {% if page.navigation %}
   <nav>
-    {% for link in site.navigation %}
+    {% for link in page.navigation %}
       {% assign current = nil %}
       {% if page.url == link.url or page.layout == link.layout %}
         {% assign current = 'active' %}
