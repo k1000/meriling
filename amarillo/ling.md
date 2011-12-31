@@ -1,1 +1,4 @@
- 
+---
+layout: site
+categories: amarillo
+--- 
