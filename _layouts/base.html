@@ -21,9 +21,9 @@
 
   <!-- CSS
   ================================================== -->
-  <link rel="stylesheet" href="stylesheets/base.css">
-  <link rel="stylesheet" href="stylesheets/skeleton.css">
-  <link rel="stylesheet" href="stylesheets/layout.css">
+  <link rel="stylesheet" href="../stylesheets/base.css">
+  <link rel="stylesheet" href="../stylesheets/skeleton.css">
+  <link rel="stylesheet" href="../stylesheets/layout.css">
 
   <!-- Favicons
   ================================================== -->
@@ -34,7 +34,7 @@
 
 
 </head>
-<body class="body {{ page.layout }}">
+<body class="{{ page.layout }}">
 
 <section>
 {{ content }}
@@ -42,7 +42,7 @@
 
 {% include footer.html %}
   <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
-  <script src="javascripts/tabs.js"></script>
+  <script src="../javascripts/tabs.js"></script>
   <script>
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', '{{ site.googleanalytics.account }}']);
