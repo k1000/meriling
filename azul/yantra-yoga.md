@@ -2,6 +2,8 @@
 layout: azul
 title: Yantra Yoga
 categories: eneseñanzas
+youtube: a49LPprc0ZI
+source: www.dzogchen.es
 ---
 El Yantra Yoga o Yoga del Movimiento es un antiguo sistema de yoga Tibetano basado en el texto “La Unión del Sol y La Luna”, escrito en el siglo VIII por el maestro y traductor Vairochana.
 
@@ -13,5 +15,5 @@ Web oficial de la Comunidad Dzogchén internacional sobre Yantra Yoga: <http://w
 
 *fuente: <http://www.dzogchen.es>*
 
-A continuación el trailer (en inglés) del DVD sobre Yantra Yoga que saldrá próximamente, se puede encontrar en YouTube: ”TIBETAN YOGA OF MOVEMENT: Perfect Rythm of Life (Trailer)”. <http://www.youtube.com/watch?v=a49LPprc0ZI>
+A continuación el trailer (en inglés) del DVD sobre Yantra Yoga que saldrá próximamente
  

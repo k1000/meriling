@@ -2,6 +2,7 @@
 layout: azul
 title: La Danza del Vajra
 categories: azul eneseñanzas
+youtube: TgS1kqlUzwc
 ---
 La Danza del Vajra, enseñada por vez primera por Chögyal Namkhai Norbu a principios de los noventa, es una meditación en movimiento basada en el Canto del Vajra y otros mantras encontrados en los tantras originales del Dzogchen. 
 

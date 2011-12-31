@@ -12,9 +12,13 @@
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
+
+	{% if page.map %}
+	<meta name="geo.position" content="{{ page.map.lat }}; {{ page.map.lng }}">
+	<meta name="geo.placename" content="{{ page.placename }}">
+	{% endif %}
 	<!-- Mobile Specific Metas
 	================================================== -->
-	{% if page.map %}<meta name="geo.position" CONTENT="{{ page.map.lat }}; {{ page.map.lng }}">{% endif %}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- CSS
