@@ -4,6 +4,7 @@ title: 0rganización - Gakyil
 section: azul
 categories: azul comunidad
 ---
+{{ navigation }}
 El Gakyil es la unidad básica de organización.
 Coordina las actividades de la Comunidad, contando siempre con la libre colaboración de sus miembros tanto en la organización como en la realización de las actividades.
 El Gakyil se compone de tres sectores que corresponden con un antiguo modelo Budista, los tres kaya de cuerpo, voz y mente. De este modo, el Gakyil simboliza el microcosmos, o el individuo, y el macrocosmos, o la sociedad.
