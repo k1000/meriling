@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: azul
 title: Khyentse Yeshe
 categories: azul maestros
 ---

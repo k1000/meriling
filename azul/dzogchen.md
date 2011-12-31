@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: azul
 title: Dzogchen
 categories: azul
 ---

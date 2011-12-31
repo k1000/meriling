@@ -1,7 +1,6 @@
 ---
-layout: site
+layout: azul
 title: Yantra Yoga
-section: azul
 categories: eneseñanzas
 ---
 El Yantra Yoga o Yoga del Movimiento es un antiguo sistema de yoga Tibetano basado en el texto “La Unión del Sol y La Luna”, escrito en el siglo VIII por el maestro y traductor Vairochana.
