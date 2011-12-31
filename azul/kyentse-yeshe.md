@@ -10,6 +10,6 @@ Más recientemente, está dedicando su vida al futuro de la Comunidad Dzogchen f
 
 Khyentse Yeshe tiene una forma abierta y fácil de enseñar, consigue hablando de una manera fresca y espontánea captar el interés y ayudar a los estudiantes a entrar en la esencia de las enseñanzas budistas y descubrir su verdadera naturaleza.
 
-La historia de Khyentse Yeshe está narrada por la directora J. Fox en la película <http://myreincarnationfilm.com/>.
+La historia de Khyentse Yeshe está narrada por la directora J. Fox en la película ["My Reincarnation"] <http://myreincarnationfilm.com/>.
 
-* fuente: [www.dzogchen.es]<http://www.dzogchen.es>
+*fuente: <http://www.dzogchen.es>*
