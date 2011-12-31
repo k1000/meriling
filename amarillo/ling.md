@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: amarillo
 categories: amarillo
 map:
 	lat: 28.566959
