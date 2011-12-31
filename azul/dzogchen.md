@@ -14,10 +14,10 @@ El primer paso en este sendero es recibir la introducción directa del estado de
 
 Para más información general sobre Dzogchen los siguientes libros son de gran interés:
 
-Dzogchen, el Estado de Autoperfección de [Chogyal Namkhai Norbu]<azul/chogyal-namkhai-norbu> (Ed La Llave)
-El Cristal y la Vía de la Luz de [Chogyal Namkhai Norbu]<azul/chogyal-namkhai-norbu> (Ed Kairos)
-Beyond Words - Dzogchen Made Simple de Julia Lawless and Judith Allan, 
-con introducción de [Chogyal Namkhai Norbu]<azul/chogyal-namkhai-norbu> (Ed Element de HarperCollins)
+- "Dzogchen, el Estado de Autoperfección" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-nobu) (Ed La Llave)
+- "El Cristal y la Vía de la Luz" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Kairos)
+- "Beyond Words - Dzogchen Made Simple" de Julia Lawless and Judith Allan, 
+con introducción de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Element de HarperCollins)
 
 *fuente: <http://www.dzogchen.es>*
 
