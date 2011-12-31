@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: azul
 title: 0rganización - Gakyil
 section: azul
 categories: azul comunidad
