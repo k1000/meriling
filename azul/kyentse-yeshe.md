@@ -1,5 +1,6 @@
 ---
 layout: site
+title: Khyentse Yeshe
 categories: azul maestros
 ---
 Khyentse Yeshe (Yeshi Silvano Namkhai) hijo y estudiante de Chögyal Namkhai Norbu (CHNN) nació en Italia en 1970, recibió una educación cristiana y budista, estudió filosofía e informática y trabajó en el campo de las nuevas tecnologías.

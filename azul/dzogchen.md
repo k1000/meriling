@@ -1,5 +1,6 @@
 ---
 layout: site
+title: Dzogchen
 categories: azul
 ---
 Dzogchen, es el conocimiento de la condición real de un individuo. La palabra Dzogchen es tibetana y dzog significa el “estado auto-perfecto” y chen significa “total”. Este estado perfeccionado es nuestra potencialidad, nuestra verdadera naturaleza que está más allá de las palabras, los juicios o el análisis intelectual. Para poder descubrir nuestra potencialidad, tenemos las enseñanzas Dzogchen que existen tanto en el Budismo Tibetano como en el Bon, la tradición espiritual anterior al Budismo en el Tibet.
