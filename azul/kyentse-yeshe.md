@@ -12,4 +12,4 @@ Khyentse Yeshe tiene una forma abierta y fácil de enseñar, consigue hablando d
 
 La historia de Khyentse Yeshe está narrada por la directora J. Fox en la película <http://myreincarnationfilm.com/>.
 
-* fuente: [www.dzogchen.es]<http://www.dzogchen.es "Comunidad Dzogchen de España">
+* fuente: [www.dzogchen.es]<http://www.dzogchen.es>
