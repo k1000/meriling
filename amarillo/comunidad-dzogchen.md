@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: amarillo
 title: La Comunidad Dzogchen
 categories: azul comunidad
 ---

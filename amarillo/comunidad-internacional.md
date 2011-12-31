@@ -1,5 +1,5 @@
 ---
-layout: azul
+layout: amarillo
 categories: azul comunidad
 title: Comunidad en el Mundo
 ---
