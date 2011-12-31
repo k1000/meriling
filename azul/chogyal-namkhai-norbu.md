@@ -1,7 +1,8 @@
 ---
 layout: azul
-title: Maestro Chögyal Namkhai Norbu
+title: Chögyal Namkhai Norbu
 categories: azul
+img: /images/asdds.jpg
 ---
 Chögyal Namkhai Norbu es uno de los grandes maestros del Dzogchén, ha desarrolado su vida profesional como profesor universitario, escritor e investigador de la historia del Tíbet.
 

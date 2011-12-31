@@ -12,7 +12,6 @@ Meriling
 	- sitios de interes
 - alojamiento
 
-
 Comunidad Dzogchen
 ==================
 - Comunidad de Canarias
