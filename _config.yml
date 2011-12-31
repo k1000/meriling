@@ -1,6 +1,7 @@
 safe: true
 lsi: true
 pygments: false
+base: http://k1000.github.com/meriling/
 navigation:
   - text: Home
     url: /index.html
