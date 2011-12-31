@@ -2,10 +2,12 @@
 layout: base
 ---
 {% include header.html %}
+
+{{ content }}
+
 {% if page.youtube %}
 <div id="youtube">
 	<iframe width="420" height="345" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/{{ page.youtube }}">
 	</iframe>
 </div>
 {% endif %}
-{{ content }}
