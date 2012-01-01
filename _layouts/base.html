@@ -34,15 +34,16 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 </head>
-<body class="{{ page.section }}">
+<body class="{{ page.section }} conatiner">
 
-<section class="container">
 {{ content }}
-</section>
 
 {% include footer.html %}
   <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
-  <script src="javascripts/tabs.js"></script>
+  {% if map %}
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+  {% endif %}
+  <script src="javascripts/script.js"></script>
   <script>
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', '{{ site.googleanalytics.account }}']);

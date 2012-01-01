@@ -3,11 +3,34 @@ layout: base
 ---
 {% include header.html %}
 
-{{ content }}
+<article>
+	{% if page.navigation %}
+	<aside class="three columns sidebar">
+		<nav>
+			<ul>
+			{% for link in page.navigation %}
+				{% assign current = nil %}
+				{% if page.url == link.url or page.layout == link.layout %}
+				{% assign current = 'active' %}
+				{% endif %}
+				<li><a {% if current %}class="{{ current }}"{% endif %} href="{{ link.url }}">{{ link.text }}</a></li>
+			{% endfor %}
+			</ul>
+		</nav>
+	</aside>
+	{% endif %}
 
-{% if page.youtube %}
-<div id="youtube">
-	<iframe width="420" height="345" frameborder="0" allowfullscreen="true" src="http://www.youtube.com/embed/{{ page.youtube }}">
-	</iframe>
-</div>
-{% endif %}
+	<section class="twelve columns offset-by-one content">
+	{{ content }}
+	</section>
+	{% if page.map %}
+	<div id="map_canvas"></div>
+	{% endif %}
+
+	{% if page.youtube %}
+	<div id="youtube">
+		<iframe width="420" height="345" frameborder="0" src="http://www.youtube.com/embed/{{ page.youtube }}">
+		</iframe>
+	</div>
+	{% endif %}
+</article>

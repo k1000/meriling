@@ -16,16 +16,24 @@
 
 /* #Site Styles
 ================================================== */
-
+body{
+    background: #dedede;
+}
+section {
+    background: #fff;
+}
 /* #Page Styles
 ================================================== */
 
 /* #INDEX
 ================================================== */
-header h3 {
-    font-size:1.2em;
-    line-height:1.5em;
-    float: right;    
+header {
+    background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
+}
+hgroup blockquote {
+    display: block;
+    float: right;
+    margin-left: 200px;   
 }
 
 
