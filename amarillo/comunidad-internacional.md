@@ -40,6 +40,7 @@ USA:
 	- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
 Europa:
+	
 	- Austria <http://www.dzogchen.at>
 	- Czech Republic <http://www.dzogchen.cz>
 	- France <http://www.association-dzogchen.org>
@@ -57,4 +58,5 @@ Europa:
 	- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
 
 Otros:
+	
 	- Israel <http://dzogchen.org.il>
