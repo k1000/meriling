@@ -19,9 +19,7 @@ Los Gares son Merigar en Europa (Merigar Oeste en Italia y Merigar Este en Ruman
 
 La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogchen. Muchos de los Lings se sitúan en grandes ciudades (como Barcelona, Roma, Nueva York y Moscú).
 
- 
 Gares en el mundo:
-
 	- Merigar West - Europe (Italy) <http://www.dzogchen.it>
 	- Merigar East - Europe (Romania) <http://www.dzogchen.ro>
 	- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
@@ -33,11 +31,12 @@ Gares en el mundo:
  
 Lings:
 USA
+
 	- Kundrolling, NYC <http://www.nydzogchen.com>
 	- Dondrupling, Berkeley California <www.dzogchencommunitywest.org>
 	- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
-Europa
+Europa:
 	- Austria <http://www.dzogchen.at>
 	- Czech Republic <http://www.dzogchen.cz>
 	- France <http://www.association-dzogchen.org>
@@ -53,5 +52,6 @@ Europa
 	- Spain Kundusling <http://www.dzogchen.es>
 	- Italy <http://www.merigar.it>
 	- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
-Others
+
+Otros:
 	- Israel <http://dzogchen.org.il>
