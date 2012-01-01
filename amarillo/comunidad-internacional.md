@@ -21,7 +21,6 @@ La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogch
 
 Gares en el mundo:
 =================
-
 	- Merigar West - Europe (Italy) <http://www.dzogchen.it>
 	- Merigar East - Europe (Romania) <http://www.dzogchen.ro>
 	- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
@@ -35,13 +34,11 @@ Lings
 =====
 
 USA:
-
 	- Kundrolling, NYC <http://www.nydzogchen.com>
 	- Dondrupling, Berkeley California <http://www.dzogchencommunitywest.org>
 	- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
 Europa:
-	
 	- Austria <http://www.dzogchen.at>
 	- Czech Republic <http://www.dzogchen.cz>
 	- France <http://www.association-dzogchen.org>
@@ -59,5 +56,4 @@ Europa:
 	- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
 
 Otros:
-	
 	- Israel <http://dzogchen.org.il>
