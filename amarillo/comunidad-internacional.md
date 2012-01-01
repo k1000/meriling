@@ -21,14 +21,15 @@ La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogch
 
 Gares en el mundo:
 =================
-	* Merigar West - Europe (Italy) <http://www.dzogchen.it>
-	* Merigar East - Europe (Romania) <http://www.dzogchen.ro>
-	* Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
-	* Tsegyalgar East - North America (Massachusetts, USA) <http://www.tsegyalgareast.org>
-	* Tsegyalgar West - North America (Baja, Mexico) <http://www.tsegyalgarwest.org>
-	* Tashigar Norte - South America (Venezuela) <http://www.tashigarnorte.org>
-	* Tashigar Sur - South America (Argentina) <http://www.tashigar-sur.com.ar>
-	* Namgyalgar - Oceania (Australia) <http://www.dzogchen.org.au>
+
+	- Merigar West - Europe (Italy) <http://www.dzogchen.it>
+	- Merigar East - Europe (Romania) <http://www.dzogchen.ro>
+	- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
+	- Tsegyalgar East - North America (Massachusetts, USA) <http://www.tsegyalgareast.org>
+	- Tsegyalgar West - North America (Baja, Mexico) <http://www.tsegyalgarwest.org>
+	- Tashigar Norte - South America (Venezuela) <http://www.tashigarnorte.org>
+	- Tashigar Sur - South America (Argentina) <http://www.tashigar-sur.com.ar>
+	- Namgyalgar - Oceania (Australia) <http://www.dzogchen.org.au>
  
 Lings
 =====
