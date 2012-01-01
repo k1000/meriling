@@ -19,7 +19,7 @@
 body{
     background: #dedede;
 }
-section {
+article {
     background: #fff;
 }
 /* #Page Styles
@@ -30,7 +30,7 @@ section {
 header {
     background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
 }
-hgroup blockquote {
+header blockquote {
     display: block;
     float: right;
     margin-left: 200px;   
