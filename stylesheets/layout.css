@@ -17,10 +17,29 @@
 /* #Site Styles
 ================================================== */
 body{
-    background: #dedede;
+    //background: #dedede;
 }
 article {
     background: #fff;
+}
+
+aside nav{
+    text-align: right;
+    padding-right: 5px
+}
+aside nav a{
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+}
+.amarillo aside nav{
+    border-right: 8px solid yellow;
+}
+.rojo aside nav{
+    border-right: 8px solid red;
+}
+.azul aside nav{
+    border-right: 8px solid blue;
 }
 /* #Page Styles
 ================================================== */

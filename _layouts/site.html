@@ -5,7 +5,7 @@ layout: base
 
 <article class="container">
 	{% if page.navigation %}
-	<aside class="two columns sidebar">
+	<aside class="four columns sidebar">
 		<nav>
 			<ul>
 			{% for link in page.navigation %}
@@ -20,7 +20,7 @@ layout: base
 	</aside>
 	{% endif %}
 
-	<section class="twelve columns offset-by-one content">
+	<section class="twelve columns content">
 	{{ content }}
 	
 		{% if page.map %}
