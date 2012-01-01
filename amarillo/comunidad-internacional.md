@@ -37,7 +37,7 @@ Lings
 USA:
 
 	- Kundrolling, NYC <http://www.nydzogchen.com>
-	- Dondrupling, Berkeley California <www.dzogchencommunitywest.org>
+	- Dondrupling, Berkeley California <http://www.dzogchencommunitywest.org>
 	- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
 Europa:
