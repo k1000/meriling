@@ -43,7 +43,26 @@ body > header {
 body > footer {
 	border-top: 6px solid;
 }
+article nav {
+	
+	text-align: right;
+}
 
+.azul article nav {
+	border-right: 6px solid blue;
+}
+.rojo article nav {
+	border-right: 6px solid red;
+}
+.amarillo article nav {
+	border-right: 6px solid yellow;
+}
+
+article nav a{
+	text-decoration: none;
+	padding-right: 10px;
+	display: block;
+}
 
 /* #INDEX
 ================================================== */
@@ -51,11 +70,10 @@ body > footer {
     //background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
     background: #fff;
 }
-.index > header h1,
-.index > header h2 {
+header h1,
+header h2 {
 	color: white;
 	text-shadow: 0 1px 1px #666;
-	margin-left: 33%;
 }
 .index blockquote {
     display: block;
