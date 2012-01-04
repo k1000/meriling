@@ -38,3 +38,22 @@ var Mapper = function( map_canvas, options ){
 
 	return this;
 }
+
+// url = https://www.googleapis.com/plus/v1/people/{{ client id }}/activities/public/?key={{ api key }}&callback={{ callback }}
+
+function render_feed( jsn, ele ){
+	var out = "<ul>";
+	for (var i = colection.items.length - 1; i >= 0; i--) {
+		var item = colection.items[i];
+		out += "<li><a href='" + item.object.url + "'>" + item.object.content + "</a></li>";
+	}
+	out += "</ul>";
+	$("#google_plus_feed").html(out);
+}
+
+
+(function( ) {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = URL;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
