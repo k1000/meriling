@@ -40,7 +40,7 @@ var Mapper = function( map_canvas, options ){
 }
 
 // url = https://www.googleapis.com/plus/v1/people/{{ client id }}/activities/public/?key={{ api key }}&callback={{ callback }}
-
+var url = https://www.googleapis.com/plus/v1/people/102721572594228637143/activities/public/?key=AIzaSyD8g0rvMpchH0tvVXHd9c79iwBEA1hB3oc; 
 function render_feed( jsn, ele ){
 	var out = "<ul>";
 	for (var i = colection.items.length - 1; i >= 0; i--) {
