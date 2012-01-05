@@ -1,8 +1,9 @@
 ---
 layout: site
+section: rojo
 categories: rojo
 --- 
-WEBCAST ABIERTA 
+Webcast Abierta
 ===============
 1- Para conectarte a una webcast abierta, haz clic en el siguiente enlace:
 
@@ -20,7 +21,7 @@ ve a http://www.shangshunginstitute.net/webcast/translation.php
 Y selecciona SPANISH TRANSLATION
 
 
-WEBCAST CERRADA
+Webcast cerrada
 ===============
 (sólo miembros de la Comunidad Dzogchen)
 
@@ -32,9 +33,10 @@ Sigue las instrucciones que aparecen en la Dzogchen Community Webcast:
 
 Enviar nombre completo, país, dirección e-mail, número de socio (pregunta al Gakyil sol_amarillo@dzogchen.es si no lo conoces) y el Gar al que pertenceces (si resides en España es Merigar) a webcast@shangshunginstitute.org
 
-En caso de dudas contacta con kamil.azul@meriling.es  
+En caso de dudas contacta con kamil.azul@meriling.es
 
-NOVEDADES
+
+Novedades
 =========
 La webcast en vídeo ya está disponible para dispositivos Apple como iPad/iPod/iPhone (beta).
 
