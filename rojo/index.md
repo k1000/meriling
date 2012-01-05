@@ -1,5 +1,5 @@
 ---
-layout: amarillo
+layout: rojo
 title: Actividad
 categories: amarillo
 ---
