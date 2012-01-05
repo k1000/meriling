@@ -1,4 +1,4 @@
 ---
-layout: site
+layout: rojo
 categories: rojo
 ---  
