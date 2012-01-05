@@ -40,8 +40,8 @@ var Mapper = function( map_canvas, options ){
 }
 
 // url = https://www.googleapis.com/plus/v1/people/{{ client id }}/activities/public/?key={{ api key }}&callback={{ callback }}
-var url = https://www.googleapis.com/plus/v1/people/102721572594228637143/activities/public/?key=AIzaSyD8g0rvMpchH0tvVXHd9c79iwBEA1hB3oc; 
-function render_feed( jsn, ele ){
+var google_json = "https://www.googleapis.com/plus/v1/people/102721572594228637143/activities/public/?key=AIzaSyD8g0rvMpchH0tvVXHd9c79iwBEA1hB3oc&callback=render_feed"; 
+function render_feed( colection ){
 	var out = "<ul>";
 	for (var i = colection.items.length - 1; i >= 0; i--) {
 		var item = colection.items[i];
@@ -54,6 +54,6 @@ function render_feed( jsn, ele ){
 
 (function( ) {
         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = URL;
+        po.src = google_json;
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
