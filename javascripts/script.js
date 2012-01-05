@@ -45,7 +45,8 @@ function render_feed( colection ){
 	var out = "<div class='google_plus_feed'><h3>"+ colection.title +"</h3><ul>";
 	for (var i = colection.items.length - 1; i >= 0; i--) {
 		var item = colection.items[i];
-		out += "<li><time datetime='"+ item.published +"'>"+ item.published +"</time><a href='" + item.object.url + "'>" + item.object.content + "</a></li>";
+		var pub = item.published.split("T")[0].split("-")
+		out += "<li><a href='" + item.object.url + "'><time datetime='"+ item.published +"'>"+ pub[2]+"/"+pub[1]+"/"+pub[0]+"</time> " + item.object.title + "</a></li>";
 	}
 	out += "</ul></div>";
 	$("body > header").append(out);
