@@ -4,7 +4,7 @@ section: rojo
 categories: rojo
 --- 
 Webcast Abierta
-===============
+---------------
 1- Para conectarte a una webcast abierta, haz clic en el siguiente enlace:
 
 http://www.shangshunginstitute.net/webcast/index.php
@@ -22,7 +22,7 @@ Y selecciona SPANISH TRANSLATION
 
 
 Webcast cerrada
-===============
+---------------
 (sólo miembros de la Comunidad Dzogchen)
 
 Sique las mismas instrucciones que para la webcast abierta pero utiliza tu nombre de usuario y contraseña.
@@ -37,7 +37,7 @@ En caso de dudas contacta con kamil.azul@meriling.es
 
 
 Novedades
-=========
+---------
 La webcast en vídeo ya está disponible para dispositivos Apple como iPad/iPod/iPhone (beta).
 
 Durante este retiro será posible recibir la transmisión de vídeo en estos dispositivos escribiendo la siguiente dirección en el navegador safari:
