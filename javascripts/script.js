@@ -46,7 +46,7 @@ function render_feed( colection ){
 	for (var i = colection.items.length - 1; i >= 0; i--) {
 		var item = colection.items[i];
 		var pub = item.published.split("T")[0].split("-")
-		out += "<li><a href='" + item.object.url + "'><time datetime='"+ item.published +"'>"+ pub[2]+"/"+pub[1]+"/"+pub[0]+"</time> " + item.object.title + "</a></li>";
+		out += "<li><a href='" + item.object.url + "'><time datetime='"+ item.published +"'>"+ pub[2]+"/"+pub[1]+"/"+pub[0]+"</time> " + item.title + "</a></li>";
 	}
 	out += "</ul></div>";
 	$("body > header").append(out);
