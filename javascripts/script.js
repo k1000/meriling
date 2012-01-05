@@ -42,13 +42,13 @@ var Mapper = function( map_canvas, options ){
 // url = https://www.googleapis.com/plus/v1/people/{{ client id }}/activities/public/?key={{ api key }}&callback={{ callback }}
 var google_json = "https://www.googleapis.com/plus/v1/people/102721572594228637143/activities/public/?key=AIzaSyD8g0rvMpchH0tvVXHd9c79iwBEA1hB3oc&callback=render_feed"; 
 function render_feed( colection ){
-	var out = "<ul>";
+	var out = "<ul class='google_plus_feed'>";
 	for (var i = colection.items.length - 1; i >= 0; i--) {
 		var item = colection.items[i];
 		out += "<li><a href='" + item.object.url + "'>" + item.object.content + "</a></li>";
 	}
 	out += "</ul>";
-	$("#google_plus_feed").html(out);
+	$("body > header").append(out);
 }
 
 
