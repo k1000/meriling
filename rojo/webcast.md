@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: rojo
 section: rojo
 categories: rojo
 --- 
