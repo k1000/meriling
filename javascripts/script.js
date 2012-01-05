@@ -39,6 +39,18 @@ var Mapper = function( map_canvas, options ){
 	return this;
 }
 
+
+//https://developers.google.com/+/plugins/badge/config
+window.___gcfg = {lang: 'es'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();
+
+
+
 // url = https://www.googleapis.com/plus/v1/people/{{ client id }}/activities/public/?key={{ api key }}&callback={{ callback }}
 var google_json = "https://www.googleapis.com/plus/v1/people/102721572594228637143/activities/public/?key=AIzaSyD8g0rvMpchH0tvVXHd9c79iwBEA1hB3oc&callback=render_feed"; 
 function render_feed( colection ){
