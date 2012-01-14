@@ -80,6 +80,9 @@ article nav a{
 	padding-right: 10px;
 	display: block;
 }
+a time {
+    text-decoration: none;
+}
 time {
 	background: #dfdfdf;
 	color: white;
@@ -91,18 +94,28 @@ time {
 ================================================== */
 .index > header {
     //background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
-    background: #fff;
+    background: url(../images/meriling-logo.svg) 10px 10px no-repeat;
 }
 header h1,
 header h2 {
-	color: white;
-	text-shadow: 0 1px 1px #666;
+    color: #000;
+    /*text-shadow: 0 1px 1px #666;*/
 }
 .index blockquote {
     display: block;
-    float: right;
-    color: white;
-	background-color: rgba(254,255,254,0.29);
+    float: left;
+    background-color: rgba(254,255,254,0.29);
+    width: 250px;
+    padding-bottom: 20px;
+}
+.index header aside {
+    background: url("../images/ChNN.jpeg") no-repeat;
+    height: 400px;
+}
+.index header svg,
+.index header h1,
+.index header h2 {
+    float:left;
 }
 .index article div {
 	background: rgba(255,254,255,0.28);
