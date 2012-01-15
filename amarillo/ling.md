@@ -9,6 +9,7 @@ title: Meriling - Ubicación
 ---
 Dirreción
 -------------
+
     MERILING
     Calle Océano Pacífico 6
     38240 - La Punta del Hidalgo
@@ -19,13 +20,14 @@ Dirreción
 
 ¿Como llegar?
 -------------
-- desde Aeropuerto Tenerife Sur (TFS)
-    - con guagua (BUS)
-        - desde aueropuerto coger guagua al terminal de *Santa Cruz de Tenerife* (cada 30 min.)
-        - desdé terminal del bus de *Santa Cruz de Tenerife* coger guagua a *La Punta del Hidalgo* - [línea 105](http://www.titsa.com/index.php?accion=linea&IdLinea=105)
+* desde Aeropuerto Tenerife Sur (TFS)
+    * con guagua (BUS)
+        * desde aueropuerto coger guagua al terminal de *Santa Cruz de Tenerife* (cada 30 min.)
+        * desdé terminal del bus de *Santa Cruz de Tenerife* coger guagua a *La Punta del Hidalgo* - [línea 105](http://www.titsa.com/index.php?accion=linea&IdLinea=105)
 
-- desde Aeropuerto Tenerife Norte (TFN)
-    - con guagua (BUS)
-        - desde aueropuerto coger la guagua al terminal de -La Laguna- (cada 30 min.)
-        - desdé terminal del bus de -La Laguna- coger la guagua a *La Punta del Hidalgo* - [línea 50](http://www.titsa.com/index.php?accion=linea&IdLinea=50)
-    - con TAXI - aprox. 15€
+* desde Aeropuerto Tenerife Norte (TFN)
+    * con guagua (BUS)
+        * desde aueropuerto coger la guagua al terminal de -La Laguna- (cada 30 min.)
+        * desdé terminal del bus de -La Laguna- coger la guagua a *La Punta del Hidalgo* - [línea 50](http://www.titsa.com/index.php?accion=linea&IdLinea=50)
+    * con TAXI - aprox. 15€o y contraseña?
+    Envía petición de numero usuario y contraseña en inglés al webcast@shangshunginstitute.org indicando su nombre completo, país, dirección e-mail, y el Gar al que pertenceces (si resides en España es Merigar). En caso de dudas contacta con kamil.azul@meriling.es
