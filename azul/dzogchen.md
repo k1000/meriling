@@ -2,6 +2,7 @@
 layout: azul
 title: Dzogchen
 categories: azul
+youtube: DaJwuhs0ZPM
 ---
 Dzogchen, es el conocimiento de la condición real de un individuo. La palabra Dzogchen es tibetana y dzog significa el “estado auto-perfecto” y chen significa “total”. Este estado perfeccionado es nuestra potencialidad, nuestra verdadera naturaleza que está más allá de las palabras, los juicios o el análisis intelectual. Para poder descubrir nuestra potencialidad, tenemos las enseñanzas Dzogchen que existen tanto en el Budismo Tibetano como en el Bon, la tradición espiritual anterior al Budismo en el Tibet.
 
@@ -14,11 +15,9 @@ El primer paso en este sendero es recibir la introducción directa del estado de
 
 Para más información general sobre Dzogchen los siguientes libros son de gran interés:
 
-- "Dzogchen, el Estado de Autoperfección" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-nobu) (Ed La Llave)
+- "Dzogchen, el Estado de Autoperfección" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed La Llave)
 - "El Cristal y la Vía de la Luz" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Kairos)
 - "Beyond Words - Dzogchen Made Simple" de Julia Lawless and Judith Allan, 
 con introducción de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Element de HarperCollins)
-
-*fuente: <http://www.dzogchen.es>*
 
  
