@@ -6,7 +6,7 @@ map:
   lng: -16.331627
   placename: Punta del Hidalgo Tenerife
 title: Meriling - Ubicación
-----------------
+---
 Dirreción
 -------------
     MERILING
