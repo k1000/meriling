@@ -3,7 +3,8 @@ layout: amarillo
 categories: amarillo
 title: Biblioteca
 ---
-En Meriling tratamos establecer la biblioteca de libros y otro material multimedia relacionado con la enseñanza Dzogchen y Dharma en general.
+En Meriling tenemos la biblioteca de libros y otro material multimedia relacionado con la enseñanzas Dzogchen y Dharma en general.
+Su propósito es permitir a todos los practicantes el estudio de las enseñanzas, preservación de las mismas, y proporcionar el material de apoyo para la práctica.
 
 Aqui puden consultar el catálogo actual.
 
