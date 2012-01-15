@@ -5,8 +5,8 @@ categories: rojo
 --- 
 Webcast abierta
 ---------------
-Para conectarte a una webcast abierta, haz clic en el siguiente enlace: <http://www.shangshunginstitute.net/webcast/index.php>.
-Si quieres escuchar la traducción al español, abre otra direcion <http://www.shangshunginstitute.net/webcast/translation.php> en tu navegador, y selecciona "SPANISH TRANSLATION"
+Todo mundo pude seguir las webcast abbirtas. Para conectarte a una, haz clic en el siguiente enlace: <http://www.shangshunginstitute.net/webcast/index.php>.
+Si quieres escuchar la traducción al español, abre la direcion <http://www.shangshunginstitute.net/webcast/translation.php> en tu navegador, y selecciona "SPANISH TRANSLATION"
 
 Webcast cerrada
 ---------------
