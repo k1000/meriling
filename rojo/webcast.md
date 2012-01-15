@@ -15,8 +15,8 @@ Sólo para los miembros de la Comunidad Dzogchen. Sique las mismas instrucciones
 ###¿No tienes número de usuario y contraseña?
 Envía petición de numero usuario y contraseña en inglés al webcast@shangshunginstitute.org indicando su nombre completo, país, dirección e-mail, y el Gar al que pertenceces (si resides en España es Merigar). En caso de dudas contacta con kamil.azul@meriling.es
 
-Webcast abierta en tu iPhone iPad iPod
---------------------------------------
+Webcast abierta en tu iPhone, iPad o iPod
+-----------------------------------------
 La webcast en vídeo ya está disponible para dispositivos Apple como iPad/iPod/iPhone (beta).
 
 Durante este retiro será posible recibir la transmisión de vídeo en estos dispositivos escribiendo la siguiente dirección en el navegador safari:
