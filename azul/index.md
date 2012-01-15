@@ -23,6 +23,11 @@ Las enseñanzas de Dzogchen tradicionalmemte comprenden 3 series: Longde, Semde 
 
 Maestros
 ========
+El linaje es fundamental dentro del budismo tibetano así como en la mayoría de las disciplinas espirituales, ya que garantiza que las enseñanzas están vivas, es decir, que se han transmitido de maestro a discípulo y que siempre se ha hecho de forma pura, realizando completamente su comprensión.
+
+El extenso linaje de maestros de Dzogchen da inicio con Garab Dorje, en la tierra de Ogyen, al noroeste de la India. Ya desde pequeño Garab Dorje muestra todas las cualidades de un ser realizado, a los siete años ya debatía con los pandit, mostrando una comprensión muy superior e impartía las enseñanzas que recibió por contacto directo con el Sambhogakaya.
+
+De estos debates surge su discípulo, Mañjushrimitra, a partir de ese momento, la enseñanza Dzogchen se ha transmitido durante siglos y siglos a través de los maestros, que la han enseñado a sus discípulos, sin romper su continuidad, en un linaje ininterrumpido hasta nuestros días.
 
 ChNN
 ====
