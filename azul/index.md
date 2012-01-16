@@ -29,10 +29,22 @@ El extenso linaje de maestros de Dzogchen da inicio con Garab Dorje, en la tierr
 
 De estos debates surge su discípulo, Mañjushrimitra, a partir de ese momento, la enseñanza Dzogchen se ha transmitido durante siglos y siglos a través de los maestros, que la han enseñado a sus discípulos, sin romper su continuidad, en un linaje ininterrumpido hasta nuestros días.
 
-ChNN
-====
+La transmisión
+==============
+Las enseñanzas Dzogchen están ligadas a una transmisión que vive en el Maestro y que es de importancia fundamental para el desarrollo del conocimiento y la realización de los discípulos.
 
-KY
-==
+La principal particularidad de estas enseñanzas es el Guruyoga y se puede tener la transmisión del conocimiento del Guruyoga con la introducción directa, que tiene lugar mediante la unificación del estado del Maestro con el discípulo. Esto significa que cuando estamos haciendo la práctica juntos, estamos unificándonos en el mismo estado -el estado primordial- que tiene la misma naturaleza en todos los seres sintientes y está más allá de todo límite. Para la transmisión no hay distancia, estar cerca o lejos no importa, porque el conocimiento de la transmisión está más allá de tiempo y distancia.
+
+Originalmente, Chögyal Namkhai Norbu tuvo la idea de una transmisión a distancia para ayudar a las personas que por distintas situaciones no podían viajar en ese momento para encontrarse con el  Maestro.
+
+Para recibir esta transmisión, -que se da tres veces al año en los aniversarios de Garab Dorje, Guru Padmasambhava y Adzom Drugpa- las personas deben estar sinceramente interesadas en las enseñanzas transmitidas por nuestro Maestro y practicadas en la Comunidad Dzogchen en todo el mundo.
+
+La transmisión permite que uno practique las enseñanzas Dzogchen dadas por Rinpoche, sin la necesidad de contacto directo con el Maestro en ese momento.
+
+No obstante, quienes participen en esta transmisión deben intentar en el futuro recibir personalmente las enseñanzas de Rinpoche. Después de haber recibido la transmisión, también deben intentar practicar y colaborar con la Sangha de la Comunidad Dzogchen Internacional, fundada por Chögyal Namkhai Norbu.
+
+Para recibir la Transmisión  Mundial, los nuevos estudiantes necesitan participar con algún estudiante experimentado que organizará ambas cosas, tanto las explicaciones preliminares como la práctica misma con suficiente anticipación.
+
+Para las personas nuevas e interesadas es importante haber recibido explicación de la práctica previamente y tener la posibilidad de clarificar cualquier duda con algún antiguo y serio estudiante de Chögyal Namkhai Norbu.
 
 
