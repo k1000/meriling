@@ -1,11 +1,16 @@
 ---
 layout: amarillo
+categories: amarillo comunidad
 title: 0rganización - Gakyil
-categories: azul comunidad
 ---
-El Gakyil es la unidad básica de organización.
-Coordina las actividades de la Comunidad, contando siempre con la libre colaboración de sus miembros tanto en la organización como en la realización de las actividades.
-El Gakyil se compone de tres sectores que corresponden con un antiguo modelo Budista, los tres kaya de cuerpo, voz y mente. De este modo, el Gakyil simboliza el microcosmos, o el individuo, y el macrocosmos, o la sociedad.
+La coordinación de las diferentes actividades de la asociación se gestionan en Gakyl o núcleo esencial de la organización. El Gakyl puede ser el punto de referencia en una nación, o puede ser un agrupamiento menor, que funcione como referencia en un área geográfica más pequeña. Cada Gakyl es autónomo y no existe un Gakyl o Gar que tenga supremacía sobre otro.
+
+El Gakyil representa al cuerpo de la Comunidad Dzogchen y consiste de tres, seis o nueve miembros, dependiendo de las necesidades y circunstancias. Su duración es de tres años como máximo.
+
+Está formado por tres secciones, cada una de las cuales es de diferente color: amarillo, rojo y azul, que corresponden a lo que de acuerdo a la enseñanza Dzogchen, son las tres dimensiones de nuestra existencia: cuerpo, voz (o energía) y mente.
+
+Por lo tanto, el amarillo dirige las operaciones económicas y administrativas de la Comunidad, ligadas al aspecto material o “cuerpo” del individuo. El rojo maneja el trabajo y los servicios de la Comunidad, vinculados con la energía vital o “voz” de la persona. El azul guía las actividades culturales y educativas de la Enseñanza, relacionadas con la “mente”.
+
 El Gakyil para el período 2011-2012:
  
 AMARILLO
