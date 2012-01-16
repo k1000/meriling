@@ -8,4 +8,4 @@ Que a posteriori, una vez terminado retiro, pondremos en práctica y integraremo
 
 Durante últimos 30 años Mestro Chögyal Namkhai Norbu incansablemente esta recorriendo todo mundo organizando retiros. Hay muchisimas personas que recibieron enseñanzas y estas les cambiaron la vida. Si quires ser uo e ellas consulte la agenda de retiros de Chögyal Namkhai Norbu y Kyentse Yeshe.
 
-Cabe destacar que tenemos gran fortuna que Mestro Chögyal Namkhai Norbu ha eligido Tenerife como el lugar para pasar gran parte del año desde Sieptiembre 2012. En este periodo se preve organizar 5 retiros.
+Cabe destacar que tenemos una gran fortuna que el Mestro Chögyal Namkhai Norbu ha eligido Tenerife como el lugar para pasar gran parte del año desde Sieptiembre 2012. En este periodo se planea organizar 5 retiros done invitamos todos interesados.
