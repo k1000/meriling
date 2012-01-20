@@ -62,7 +62,7 @@ function render_feed( colection ){
 		out += "<li><a href='" + item.object.url + "'><time datetime='"+ item.published +"'>"+ pub[2]+"/"+pub[1]+"/"+pub[0]+"</time> " + item.title + "</a></li>";
 	}
 	out += "</ul></div>";
-	$("body > header > div").append(out);
+	$("body > header > aside").append(out);
 }
 
 

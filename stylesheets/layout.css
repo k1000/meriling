@@ -26,12 +26,15 @@ header h1,
 header h2 {
     display:block;
     text-indent: -999em;
+    height: 60px;
+    float: left;
+    width: 160px;
 }
 header h1{
     background: url(../images/meriling-logo.png) no-repeat;
 }
 header h2{
-    background: url(../images/dc-canarias-logo.png) no-repeat;
+    background: url(../images/DC-canarias-logo.png) no-repeat;
 }
 aside nav{
     text-align: right;
@@ -123,7 +126,6 @@ time {
     padding-top:20px;
 }
 .index h1 {
-    float: left;
 }
 .index blockquote {
     display: block;
@@ -137,7 +139,6 @@ time {
 }
 .index header aside {
     background: url("images/maestro.png") no-repeat;
-    height: 400px;
 }
 
 .index article div {
