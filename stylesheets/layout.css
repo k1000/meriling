@@ -18,7 +18,7 @@
 ================================================== */
 
 body{
-		background: #fcfcfc;
+		background: #fcfcfc url(../images/background.png);
 		font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -138,7 +138,7 @@ time {
     color: #afafaf;
 }
 .index header aside {
-    background: url("images/maestro.png") no-repeat;
+    background: hsl(229.7, 96.4%, 41.9%) url("images/maestro.png") no-repeat;
 }
 
 .index article div {
@@ -148,12 +148,12 @@ time {
 }
 .index h3 a {
 	display: block;
-	background: rgb(255,254,255);
 	text-decoration: none;
 	margin-bottom: 1em;
-	text-shadow: 0 1px 1px #fff;
+	text-shadow: 0 1px 1px #666;
 	font-weight: normal;
 	padding-left: 20px;
+	color: #fff;
 }
 .index p {
 	margin: 0 20px;

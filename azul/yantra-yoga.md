@@ -1,9 +1,11 @@
 ---
 layout: azul
-title: Yantra Yoga
 categories: eneseñanzas
 youtube: a49LPprc0ZI
-autor: Prima Mai
+image:
+  - url: yantra.jpg
+author: Prima Mai
+title: Yantra Yoga
 ---
 El Tantra “La Danza del Vajra liberando las Seis Clases de Seres en las Seis Dimensiones puras” es un terma del maestro tibetano de Dzogchen Chögyal Namkhai Norbu. El tantra “La unión del Sol y la Luna” enseñado por el Vajradhara Samantabhadra contiene las instrucciones de la aplicación de la Contemplación en la Danza del Vajra. La Danza del Vajra está conectada con la antigua tradición de Dzogchen de Oddiyana e inseparablemente vinculada con la transmisión de las Enseñanzas Dzogchen. La Danza del Vajra ha sido practicada desde 1992 por los miembros del La Comunidad Dzogchen alrededor del mundo.
 
