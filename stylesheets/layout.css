@@ -31,7 +31,7 @@ header h2 {
     width: 160px;
 }
 header h1{
-    background: url(../images/meriling-logo.png) no-repeat;
+    /*background: url(../images/meriling-logo.png) no-repeat;*/
 }
 header h2{
     background: url(../images/DC-canarias-logo.png) no-repeat;
