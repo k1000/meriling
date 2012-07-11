@@ -97,8 +97,8 @@ a time {
     text-decoration: none;
 }
 time {
-	background: #795548;
-	color: white;
+	background: #EBE8E8;
+	color: rgb(148, 138, 138);
 	font-size: small;
 	padding: 0 .3em;
 }
@@ -122,14 +122,16 @@ time {
     background: url(../images/meriling-logo.svg) 10px 10px no-repeat;*/
 }
 .index > header h3 a{ 
-    color: rgb(204, 150, 108);
     margin: 0;
+    padding-left: 8px;
 }
 .index > header a{
     text-decoration: none;
-    color: wheat;
+    color: black;
     padding: 2px 10px;
     display: block;
+    text-shadow: 0 1px 1px white;
+    border-top: 1px dotted #A39076;
 }
 .index hgroup {
     display: block;
@@ -155,13 +157,13 @@ time {
     font-size: .8em;
     padding-right: 20px;
 }
-.index header aside {
-    background: #643333 url("images/maestro.png") no-repeat;
+.index header aside li{
+    
 }
 
 .index article div {
 	background: rgba(255, 254, 255, 0.64);
-	box-shadow: 0 0 5px #d6d6d6;
+	box-shadow: 0 0 5px #969696;
 	margin-bottom: 1em;
 }
 .index h3 a {
