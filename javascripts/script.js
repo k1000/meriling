@@ -56,7 +56,7 @@ var google_json = "https://www.googleapis.com/plus/v1/people/1027215725942286371
 function render_feed( colection ){
 	//var out = "<div class='google_plus_feed'><h3>"+ colection.title +"</h3><ul>";
 	var out = "<ul>";
-	for (var i = colection.items.length - 1; i >= 0; i--) {
+	for (var i = 0; i < colection.items.length; i++) {
 		var item = colection.items[i];
 		var pub = item.published.split("T")[0].split("-");
 		out += "<li><a href='" + item.object.url + "'><time datetime='"+ item.published +"'>"+ pub[2]+"/"+pub[1]+"/"+pub[0]+"</time> " + item.title + "</a></li>";

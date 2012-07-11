@@ -34,7 +34,7 @@ header h1{
     background: url(../images/meriling-logo.png) no-repeat;
 }
 header h2{
-    background: url(../images/DC-canarias-logo.png) no-repeat;
+    /*background: url(../images/DC-canarias-logo.png) no-repeat;*/
 }
 aside nav{
     text-align: right;
@@ -97,7 +97,7 @@ a time {
     text-decoration: none;
 }
 time {
-	background: #dfdfdf;
+	background: #A7A7A7;
 	color: white;
 	font-size: small;
 	padding: 0 .3em;
@@ -121,6 +121,9 @@ time {
     /*background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
     background: url(../images/meriling-logo.svg) 10px 10px no-repeat;*/
 }
+.index > header a{
+    text-decoration: none;
+}
 .index hgroup {
     display: block;
     padding-top:20px;
@@ -138,7 +141,7 @@ time {
     color: #afafaf;
 }
 .index header aside {
-    background: hsl(229.7, 96.4%, 41.9%) url("images/maestro.png") no-repeat;
+    background: #C8E2EE url("images/maestro.png") no-repeat;
 }
 
 .index article div {
@@ -153,7 +156,7 @@ time {
 	text-shadow: 0 1px 1px #666;
 	font-weight: normal;
 	padding-left: 20px;
-	color: #fff;
+	color: black;
 }
 .index p {
 	margin: 0 20px;
