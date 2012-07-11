@@ -124,6 +124,8 @@ time {
 .index > header h3 a{ 
     margin: 0;
     padding-left: 8px;
+    padding-top: 0;
+    border-top: 0;
 }
 .index > header a{
     text-decoration: none;
@@ -169,19 +171,18 @@ time {
 .index h3 a {
 	display: block;
 	text-decoration: none;
-	margin-bottom: 1em;
+	padding-top: 0.6em;
 	text-shadow: 0 1px 1px #FDFDFD;
 	font-weight: normal;
 	padding-left: 20px;
-	color: black;
 }
 .index p {
 	margin: 0 20px;
 	color: #444;
 }
-.index .azul h3 a{ border-bottom: 6px solid #438cfe; }
-.index .rojo h3 a{ border-bottom: 6px solid red; }
-.index .amarillo h3 a{ border-bottom: 6px solid #f9e20f; }
+.index .azul h3 a{ border-top: 6px solid #438CFE; }
+.index .rojo h3 a{ border-top: 6px solid red; }
+.index .amarillo h3 a{ border-top: 6px solid #F9E20F; }
 .index a.button{
     width: 100px;
     text-align: center;
