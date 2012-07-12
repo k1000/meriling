@@ -19,26 +19,26 @@ Los Gares son Merigar en Europa (Merigar Oeste en Italia y Merigar Este en Ruman
 
 La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogchen. Muchos de los Lings se sitúan en grandes ciudades (como Barcelona, Roma, Nueva York y Moscú).
 
-Gares en el mundo:
-=================
-	- Merigar West - Europe (Italy) <http://www.dzogchen.it>
-	- Merigar East - Europe (Romania) <http://www.dzogchen.ro>
+##Gares en el mundo:
+	- Merigar West - Italy <http://www.dzogchen.it>
+	- Merigar East - Romania <http://www.dzogchen.ro>
 	- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
-	- Tsegyalgar East - North America (Massachusetts, USA) <http://www.tsegyalgareast.org>
-	- Tsegyalgar West - North America (Baja, Mexico) <http://www.tsegyalgarwest.org>
-	- Tashigar Norte - South America (Venezuela) <http://www.tashigarnorte.org>
-	- Tashigar Sur - South America (Argentina) <http://www.tashigar-sur.com.ar>
-	- Namgyalgar - Oceania (Australia) <http://www.dzogchen.org.au>
+	- Tsegyalgar East - USA - Massachusetts <http://www.tsegyalgareast.org>
+	- Tsegyalgar West - Mexico - Baja <http://www.tsegyalgarwest.org>
+	- Tashigar Norte - Venezuela <http://www.tashigarnorte.org>
+	- Tashigar Sur - Argentina <http://www.tashigar-sur.com.ar>
+	- Namgyalgar - Australia <http://www.dzogchen.org.au>
  
-Lings
-=====
+##Lings
 
 USA:
+
 	- Kundrolling, NYC <http://www.nydzogchen.com>
 	- Dondrupling, Berkeley California <http://www.dzogchencommunitywest.org>
 	- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
 Europa:
+
 	- Austria <http://www.dzogchen.at>
 	- Czech Republic <http://www.dzogchen.cz>
 	- France <http://www.association-dzogchen.org>
@@ -56,4 +56,5 @@ Europa:
 	- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
 
 Otros:
+
 	- Israel <http://dzogchen.org.il>
