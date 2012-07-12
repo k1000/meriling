@@ -31,13 +31,13 @@ La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogch
  
 ##Lings
 
-USA:
+USA
 
 	- Kundrolling, NYC <http://www.nydzogchen.com>
 	- Dondrupling, Berkeley California <http://www.dzogchencommunitywest.org>
 	- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
-Europa:
+Europa
 
 	- Austria <http://www.dzogchen.at>
 	- Czech Republic <http://www.dzogchen.cz>
@@ -55,6 +55,6 @@ Europa:
 	- Italy <http://www.merigar.it>
 	- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
 
-Otros:
+Otros
 
 	- Israel <http://dzogchen.org.il>
