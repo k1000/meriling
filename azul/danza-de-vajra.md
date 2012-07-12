@@ -12,8 +12,7 @@ Hay tres distintas Danzas del Vajra que pueden ser practicadas, separadas o junt
 
 El Tantra “La Danza del Vajra liberando las Seis Clases de Seres en las Seis Dimensiones puras” es un terma del maestro tibetano de Dzogchen Chögyal Namkhai Norbu. El tantra “La unión del Sol y la Luna” enseñado por el Vajradhara Samantabhadra contiene las instrucciones de la aplicación de la Contemplación en la Danza del Vajra. 
 
-La Danza del Vajra del Canto del Vajra
---------------------------------------
+##La Danza del Vajra del Canto del Vajra
 Esta práctica del la Danza del Vajra está principalmente conectada al aspecto energético de nuestra existencia, o el nivel Samboghakaya. Cada una de las muchas sílabas contenidas en el Canto del Vajra se corresponden a través de su sonido y color a un punto energético del Mandala interno o existencia individual o a la dimensión externa de nuestra existencia, el mundo.
 Mediante la integración del sonido y el movimiento conectado a las sílabas del Canto del Vajra es posible armonizar y coordinar los puntos de energía relacionados, canales y chakras y crear una comunicación armoniosa al nivel de la energía sutil. Para que la práctica verdaderamente funcione es indispensable haber recibido la transmisión de la enseñanza Dzogchen de un Maestro Dzogchen y la transmisión del “Lung” del Canto del Vajra.
 

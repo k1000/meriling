@@ -15,7 +15,7 @@ Para alguno que esté interesado en practicar la Danza del Vajra pero que no ha 
 
 La Danza del Vajra es una práctica de meditación que integra el movimiento y el sonido. El principio es armonizar y coordinar nuestra energía e integrar todas las experiencias relacionadas con nuestras tres existencias del Cuerpo, la Voz y la Mente en el estado de contemplación, además de estabilizar y mantener el estado de contemplación. A través de las tres principales experiencias de vacuidad, claridad y sensación podemos descubrir nuestra verdadera naturaleza. La práctica de la Danza del Vajra se realiza en un gran Mandala de aproximadamente 100 metros cuadrados representando la correspondencia entre nuestra dimensión interna y externa. Durante la meditación de la Danza del Vajra 12 practicantes, 6 mujeres y 6 hombres pueden practicar juntos.
 
-La Danza del Vajra del Canto del Vajra
+##La Danza del Vajra del Canto del Vajra
 
 Esta práctica del la Danza del Vajra está principalmente conectada al aspecto energético de nuestra existencia, o el nivel Samboghakaya. Cada una de las muchas sílabas contenidas en el Canto del Vajra se corresponden a través de su sonido y color a un punto energético del Mandala interno o existencia individual o a la dimensión externa de nuestra existencia, el mundo.
 Mediante la integración del sonido y el movimiento conectado a las sílabas del Canto del Vajra es posible armonizar y coordinar los puntos de energía relacionados, canales y chakras y crear una comunicación armoniosa al nivel de la energía sutil. Para que la práctica verdaderamente funcione es indispensable haber recibido la transmisión de la enseñanza Dzogchen de un Maestro Dzogchen y la transmisión del “Lung” del Canto del Vajra.

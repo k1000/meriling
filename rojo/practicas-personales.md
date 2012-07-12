@@ -3,9 +3,7 @@ layout: rojo
 categories: rojo
 title: Prácticas Personales
 ---  
-Guruyoga
-========
+##Guruyoga
 
 
-Practicas Segundarias
-=====================
+##Practicas Segundarias

@@ -10,8 +10,7 @@ Durante los últimos 30 años el Mestro Chögyal Namkhai Norbu, incansablemente 
 
 Cabe destacar que tenemos la gran fortuna que el Maestro Chögyal Namkhai Norbu ha elegido Tenerife como el lugar para impartir enseñanzas y va a pasar aquí varios meses en el año 2012. A partir de Octubre se planea organizar 5 retiros donde invitamos todos interesados.
 
-Retiros personales
-------------------
+##Retiros personales
 Los practicantes Dzogchen de veces cuando hacen un retiro personal para refrescar la experiencia y dar "un empujon" a su practica. En este caso el retiro consiste de varias sesiones del *Tun* (la practica en un tiempo limitado) al día durante varios días.
 
 Es recomanadble hacerlo en un lugar tranquilo donde no vamos ser interumpidos ni molestados. La sede de Meriling perfectamente cumple estas condiciones. Ofrecemos posibilidad de pasar unos días hacer un retiro pagando el precio muy atractivo por el alojamiento. Para más información contacten con tinguaro.amarillo@meriling.es.

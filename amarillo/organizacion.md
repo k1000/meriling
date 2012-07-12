@@ -13,24 +13,21 @@ Por lo tanto, el amarillo dirige las operaciones económicas y administrativas d
 
 El Gakyil para el período 2011-2012:
  
-AMARILLO
---------
+##AMARILLO
 Es el sector que representa el cuerpo, tiene el color de la tierra, amarillo, y sus componentes asumen la responsabilidad de ocuparse de los recursos administrativos y económicos que soportan a la comunidad.
 
 Sus componentes son:
     - Aurora Marrero Ramírez <aurora.amarillo@meriling.es>
     - Tinguaro Fierro Díaz <tinguaro.amarillo@meriling.es>    
                              
-ROJO
-----                                   
+##ROJO                                  
 Es el sector que representa la voz, o la energía, es el rojo, el color del fuego, y sus representantes tratan con los recursos humanos y los proyectos de trabajo. 
  
 Sus componentes son:
     - Carles Jaez <carles.rojo@meriling.es>
     - Tomás Oran <tomas.rojo@meriling.es>
                       
-AZUL
-----
+##AZUL
 Es el sector relacionado con la mente, el color del espacio, el que se ocupa de las actividades relacionadas con el estudio y la meditación.
  
 Sus componentes son:
