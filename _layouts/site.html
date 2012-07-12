@@ -23,7 +23,8 @@ layout: base
 	{% endif %}
 
 	<section class="twelve columns content">
-	{{ content }}
+		{% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
+		{{ content }}
 	
 		{% if page.map %}
 		<div id="map_canvas"></div>
