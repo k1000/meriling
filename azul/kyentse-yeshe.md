@@ -1,8 +1,8 @@
 ---
 layout: azul
 image:
-  - url: yeshe.jpg
-    by: Paolo Ferraro
+  - url: yeshe.png
+  - by: Paolo Ferraro
 categories: azul maestros
 title: Khyentse Yeshe
 ---
