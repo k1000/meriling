@@ -72,8 +72,18 @@ body > header > nav a{
     float:left;
     text-align: center;
     text-decoration: none;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
 }
-
+a.azul {
+    background: rgb(0, 153, 255);
+}
+a.rojo {
+    background: #FF5C5C;
+}
+a.amarillo {
+    background: rgb(255, 250, 137);
+}
 body > footer {
 	border-top: 6px solid;
 	background: #C5BDA4;
