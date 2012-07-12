@@ -136,6 +136,7 @@ time {
 /* #INDEX
 ================================================== */
 .index > header {
+    background: transparent;
     /*background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
     background: url(../images/meriling-logo.svg) 10px 10px no-repeat;*/
 }
@@ -158,6 +159,7 @@ time {
     padding-top:20px;
 }
 .index h1 {
+    float: right;
 }
 .index blockquote {
     display: block;
@@ -180,7 +182,9 @@ time {
 .index header aside li{
     
 }
-
+.index article {
+	background: transparent;
+}
 .index article div {
 	background: rgba(255, 254, 255, 0.64);
 	box-shadow: 0 0 5px #969696;
@@ -193,6 +197,9 @@ time {
 	text-shadow: 0 1px 1px #FDFDFD;
 	font-weight: normal;
 	padding-left: 20px;
+}
+.index h3 a:hover {
+    color: gray;
 }
 .index p {
 	margin: 0 20px;
