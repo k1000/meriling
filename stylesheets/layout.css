@@ -130,7 +130,7 @@ article nav {
 }
 
 .azul article nav {
-	border-right: 6px solid rgb(0, 153, 255);;
+	border-right: 6px solid #09F;;
 }
 .rojo article nav {
 	border-right: 6px solid #FF5C5C;
@@ -262,13 +262,44 @@ time {
 	@media only screen and (min-width: 480px) and (max-width: 767px) {
 	    h1 { text-align: center }
 	    p, h1, h2, h3, pre { margin: 20px }
+	    article nav {
+                overflow: hidden;
+                padding:  0 10px;
+            }
+	    article nav li{
+	        float: left;
+	    }
+	    .azul article nav {
+                background: #09F;
+            }
+            .rojo article nav {
+                background: red;
+            }
+            .amarillo article nav {
+                background: yellow;
+            }
 	}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
 	    h1 { text-align: center }
 	    p, h1, h2, h3, pre { margin: 20px }
-	    
+	    article nav {
+                overflow: hidden;
+                padding:  0 10px;
+            }
+	    article nav li{
+	        float: left;
+	    }
+	    .azul article nav {
+                background: #09F;
+            }
+            .rojo article nav {
+                background: red;
+            }
+            .amarillo article nav {
+                background: yellow;
+            }
 	}
 
 
