@@ -67,6 +67,9 @@ article.container {
 	padding-bottom: 2em;
 	background: rgba(255, 255, 255, 0.62);
 }
+hgroup {
+    background: #fff;
+}
 body > header {
     background: #fff;
 }
