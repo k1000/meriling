@@ -25,16 +25,16 @@ body{
 header h1,
 header h2 {
     display:block;
-    text-indent: -999em;
     height: 60px;
     float: left;
     width: 160px;
 }
 header h1{
-    background: url(../images/meriling-logo.png) no-repeat;
+    /*background: url(../images/meriling-logo.png) no-repeat;*/
 }
 header h2{
-    background: url(../images/DC-canarias-logo.png) no-repeat;
+    text-indent: -999em;
+    background: url(../images/DC-canarias-logo.png) no-repeat; 
 }
 aside nav{
     text-align: right;
@@ -66,9 +66,11 @@ article.container {
 	padding-top: 1em;
 	padding-bottom: 2em;
 }
-
+body > header {
+    background: #fff;
+}
 body > header > nav a{
-    width: 32%;
+    width: 33.3%;
     float:left;
     text-align: center;
     text-decoration: none;
@@ -84,6 +86,7 @@ a.rojo {
 a.amarillo {
     background: rgb(255, 250, 137);
 }
+
 body > footer {
 	border-top: 6px solid;
 	background: #C5BDA4;
@@ -93,13 +96,13 @@ article nav {
 }
 
 .azul article nav {
-	border-right: 6px solid blue;
+	border-right: 6px solid rgb(0, 153, 255);;
 }
 .rojo article nav {
-	border-right: 6px solid red;
+	border-right: 6px solid #FF5C5C;
 }
 .amarillo article nav {
-	border-right: 6px solid yellow;
+	border-right: 6px solid rgb(255, 250, 137);
 }
 
 article nav a{
