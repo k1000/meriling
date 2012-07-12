@@ -10,7 +10,7 @@
 	{% if page.image %}
 	<figure>
 	<!-- http://proxy.boxresizer.com/convert?resize=650x150&source= -->
-	<img src="{{ page.image.url }}" alt="{{ page.title }}" />
+	<img src="../images/{{ page.image.url }}" alt="{{ page.title }}" />
 	{% if page.image.by %}<figcaption>{{ page.image.by }}</figcaption>{% endif %}
 	<figure>
 	{% endif %}
