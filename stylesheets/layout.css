@@ -35,7 +35,6 @@ header h1{
 header h2{
     text-indent: -999em;
     background: url(../images/DC-canarias-logo.png) no-repeat; 
-    padding-right: 45px;
 }
 aside nav{
     text-align: right;
@@ -66,6 +65,7 @@ article p {
 article.container {
 	padding-top: 1em;
 	padding-bottom: 2em;
+	background: rgba(255, 255, 255, 0.62);
 }
 body > header {
     background: #fff;
