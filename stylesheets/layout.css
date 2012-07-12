@@ -30,11 +30,16 @@ header h2 {
     width: 160px;
 }
 header h1{
+    text-shadow: #A0A0A0 0px  1px;
     /*background: url(../images/meriling-logo.png) no-repeat;*/
+;
+    margin: .3em 0 0 0;
+    font-size: 2.3em;
 }
 header h2{
     text-indent: -999em;
-    background: url(../images/DC-canarias-logo.png) no-repeat; 
+    background: #fff url(../images/DC-canarias-logo.png) center no-repeat; 
+    margin: 0;
 }
 aside nav{
     text-align: right;
@@ -62,6 +67,15 @@ left: {
 }
 /* #Page Styles
 ================================================== */
+.azul h1{
+    color: blue;
+}
+.amarillo h1{
+    color: rgb(255, 235, 0);
+}
+.rojo h1{
+    color: red;
+}
 article a {
 	font-weight: bold;
 }
@@ -80,7 +94,6 @@ body > header {
     background: white;
 }
 body > header > nav{
-    float: right;
 }
 body > header > nav a{
     width: 33.3%;
@@ -238,10 +251,17 @@ time {
 	@media only screen and (max-width: 767px) {}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+	    h1 { text-align: center }
+	    p, h1, h2, pre { margin: 20px }
+	}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-	@media only screen and (max-width: 479px) {}
+	@media only screen and (max-width: 479px) {
+	    h1 { text-align: center }
+	    p, h1, h2, pre { margin: 20px }
+	    
+	}
 
 
 /* #Font-Face
