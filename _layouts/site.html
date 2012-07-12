@@ -24,16 +24,17 @@ layout: base
 
 	<section class="twelve columns content">
 		{% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
-		{{ content }}
 	
 		{% if page.image %}
 		<figure>
 		<!-- http://proxy.boxresizer.com/convert?resize=650x150&source= -->
 		<img src="../images/{{ page.image }}" alt="{{ page.title }}" width="100%" />
-		{% if page.by %}<figcaption>{{ page.image.by }}</figcaption>{% endif %}
+		{% if page.by %}<figcaption>{{ page.by }}</figcaption>{% endif %}
 		<figure>
 		{% endif %}
-	
+
+		{{ content }}
+
 		{% if page.map %}
 		<div id="map_canvas"></div>
 		{% endif %}
