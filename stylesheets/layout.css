@@ -69,10 +69,10 @@ left: {
 /* #Page Styles
 ================================================== */
 h1 {
-    line-height: 1.1em;
-    font-size: 2.6em;
-    margin-top: .3em;
-    text-shadow: 0 -1px 1px black;
+    margin-top: 10px;
+    text-shadow: 0 -1px 0 black;
+    font-size: 2.7em;
+    line-height: 1em;
 }
 .azul h1{
     color: #0071DA;
@@ -111,7 +111,7 @@ body > header > nav a{
     font-family: Helvetica, Arial, sans-serif;
 }
 a.azul {
-    background: #4D9DD3;
+    background: rgb(0, 153, 255);
 }
 a.rojo {
     background: #FF5C5C;
@@ -121,37 +121,37 @@ a.amarillo {
 }
 
 body > footer {
-    border-top: 6px solid;
-    background: #C5BDA4;
+	border-top: 6px solid;
+	background: #C5BDA4;
 }
 article nav {
-    text-align: right;
+	text-align: right;
+	padding-top: 15px;
 }
 
 .azul article nav {
-    border-right: 6px solid rgb(0, 153, 255);;
-    padding-top: 15px;
+	border-right: 6px solid rgb(0, 153, 255);;
 }
 .rojo article nav {
-    border-right: 6px solid #FF5C5C;
+	border-right: 6px solid #FF5C5C;
 }
 .amarillo article nav {
-    border-right: 6px solid rgb(255, 250, 137);
+	border-right: 6px solid rgb(255, 250, 137);
 }
 
 article nav a{
-    text-decoration: none;
-    padding-right: 10px;
-    display: block;
+	text-decoration: none;
+	padding-right: 10px;
+	display: block;
 }
 a time {
     text-decoration: none;
 }
 time {
-    background: #EBE8E8;
-    color: rgb(148, 138, 138);
-    font-size: small;
-    padding: 0 .3em;
+	background: #EBE8E8;
+	color: rgb(148, 138, 138);
+	font-size: small;
+	padding: 0 .3em;
 }
 /* #FONTS
 ================================================== */
