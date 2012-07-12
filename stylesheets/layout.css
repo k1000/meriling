@@ -18,8 +18,8 @@
 ================================================== */
 
 body{
-		background: #E4DECA url(../images/background.png);
-		font-family: Georgia, "Times New Roman", Times, serif;
+   background: #E4DECA url(../images/background.png);
+   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 header h1,
@@ -34,7 +34,7 @@ header h1{
     background: url(../images/meriling-logo.png) no-repeat;
 }
 header h2{
-    /*background: url(../images/DC-canarias-logo.png) no-repeat;*/
+    background: url(../images/DC-canarias-logo.png) no-repeat;
 }
 aside nav{
     text-align: right;
@@ -67,7 +67,11 @@ article.container {
 	padding-bottom: 2em;
 }
 
-body > header {	
+body > header > nav a{
+    width: 32%;
+    float:left;
+    text-align: center;
+    text-decoration: none;
 }
 
 body > footer {
