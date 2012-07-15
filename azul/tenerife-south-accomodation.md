@@ -11,8 +11,8 @@ title: Retrit venue
 ##Acommodation Reservation
 For information, please feel free to:
 
-	- Send an e-mail to  [events@readytofly.org] <mail://events@readytofly.org>
-	- Or call at [+39 333 7144804] <+39 333 7144804>
+	- Send an e-mail to  [events@readytofly.org](mail://events@readytofly.org)
+	- Or call at [+39 333 7144804](tel://+393337144804)
 
 On this phone number that will be always on “Ready to FLY” will respond on English/ Spanish/ Italian and Russian  language in order to give all the necessary information to the participants.      
 
