@@ -43,6 +43,7 @@ lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
 ###III Semana de la Cultura Tibetana en Tenerife
 *11 - 17 Enero 2013*
 
+[culturatibetanatenerife.es](http://culturatibetanatenerife.es/)
 lugar: Museo de Antropologia de la Laguna
 San Cristobal de la Laguna - Tenerife
 
