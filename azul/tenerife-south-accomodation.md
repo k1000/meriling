@@ -2,11 +2,12 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: azul maestros
+map:
 title: Retrit venue
 ---
 ##Grand Hotel Callao
-[Grand Hotel Callao] <http://www.hotelgrandcallao.com/>
-[about hotel] <http://www.tripadvisor.es/Hotel_Review-g664636-d1379280-Reviews-Callao_Sport_Hotel-Callao_Salvaje_Tenerife_Canary_Islands.html>
+[Grand Hotel Callao]<http://www.hotelgrandcallao.com/>
+[about hotel]<http://www.tripadvisor.es/Hotel_Review-g664636-d1379280-Reviews-Callao_Sport_Hotel-Callao_Salvaje_Tenerife_Canary_Islands.html>
 
 ##Acommodation Reservation
 For information, please feel free to:

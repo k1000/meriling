@@ -74,6 +74,9 @@ left: {
     -webkit-column-width: 16em;
     column-width: 16em;
 }
+.clear {
+    clear: both;
+}
 /* #Page Styles
 ================================================== */
 h1 {
