@@ -3,7 +3,7 @@ layout: azul
 image: callao-salvaje.jpg
 categories: azul maestros
 map:
-title: Retrit venue
+title: Retreat venue
 ---
 ##Grand Hotel Callao
 [Grand Hotel Callao](http://www.hotelgrandcallao.com/)

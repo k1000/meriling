@@ -9,6 +9,11 @@ title: Agenda de los Retiros e otros eventos en Tenerife año 2012/13
 lugar: Punta del Hidalgo - Tenerife
 Hotel Oceano - Punta del Hidalgo - Tenerife
 
+###Retiro Base SMS con Jim Valby
+*2 - 6 Noviembre 2012*
+
+lugar: Meriling / Punta del Hidalgo - Tenerife
+
 ###Encuentro de Instructores de la Danza de Vajra
 *2 - 7 Noviembre*
 
