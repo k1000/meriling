@@ -56,10 +56,10 @@ lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
 *23 - 29, Noviembre 2012*
 
 > Dzogchen Longde ha sido transmitido por Garab Dorje pero el texto raíz original es una tantra llamada *Longchen Rabjam Gyalpoi Gyüd* (El Rey del Infinito Universo).
-Otro famoso texto de esta serie es la tantra llamada *Namkha Tang Nyampai Gyüd* (Igual al Espacio)
+> Otro famoso texto de esta serie es la tantra llamada *Namkha Tang Nyampai Gyüd* (Igual al Espacio)
 
 > Longde es una de las tres series de las enseñanzas Dzogchen que Mañjushrimitra ha organizado las enseñanzas Dzogchen de *Garab Dorje* en tres series.
-Longde es la intermedia de ellas. No tanto abrupta y rápida como Menngagde (*Upadeshavarga*) y tampoco no tan aparente gradual y menos rápida como Semde.
+> Longde es la intermedia de ellas. No tanto abrupta y rápida como Menngagde (*Upadeshavarga*) y tampoco no tan aparente gradual y menos rápida como Semde.
 
 > Esta enseñanza en particular pertenece a la serie de las termas o las eseñanzas tesoro *Longsal* reveladas por *Tertön* or el Revelador Chögyal Namkhai Norbu. Es sumamente poco común que las enseñanzas *Longde* sean reveladas como termas, al contrario de casi todas las termas Dzogchen pertenecientes a serie Menngagde.
 
