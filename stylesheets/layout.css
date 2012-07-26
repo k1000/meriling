@@ -71,8 +71,8 @@ left: {
     -icab-column-width: 16em;
     -khtml-column-width: 16em;
     -moz-column-width: 16em;
-    -webkit-column-width: 16em;
-    column-width: 16em;
+    -webkit-column-width: 20em;
+    column-width: 20em;
 }
 .clear {
     clear: both;
