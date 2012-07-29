@@ -45,6 +45,7 @@ lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
 ###Encuentro de Instructores SMS, Danza de Vajra y Yantra Yoga
 *9 - 13, Noviembre 2012*
 
+Precio: 350€
 lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
 
 ###Taller para los instructores de Yantra Yoga
