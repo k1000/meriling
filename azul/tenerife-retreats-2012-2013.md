@@ -1,7 +1,7 @@
 ---
 layout: azul
 categories: azul retiros
-title: Retireats and other events in Tenerife 2012/13
+title: Retreats and other events in Tenerife 2012/13
 ---
 ###Longsal Ati Gonpa Ngotrod Retreat
 *26 - 30 Octuber 2012*
@@ -25,6 +25,8 @@ Dzogchen Community Members:
 
 It's possible to attend separate one day paying 50€
 
+Place: Punta del Hidalgo - Tenerife
+Hotel Oceano - Punta del Hidalgo - Tenerife
 
 ###Base SMS Retreat with Jim Valby
 *2 - 6 Noviember 2012*
