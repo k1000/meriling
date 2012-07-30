@@ -5,15 +5,19 @@ categories: azul maestros
 map:
 title: Retreat venue
 ---
-##Grand Hotel Callao
+##Venue - Grand Hotel Callao
 [Grand Hotel Callao](http://www.hotelgrandcallao.com/)
 [about hotel](http://www.tripadvisor.es/Hotel_Review-g664636-d1379280-Reviews-Callao_Sport_Hotel-Callao_Salvaje_Tenerife_Canary_Islands.html)
 
 ##Acommodation Reservation
+This year we relay on professionals in order to provide best service possible to retreats participants. Using service of "Ready to Fly" touroperator gives you personalizad experience ajusted to your needs, budget and duration of visit. Also it helps us to organize and finance programmed events. So please use it.
+
+Ask “Ready to Fly” for a non-binding quotation by filling the application form below.
+
 For information, please feel free to:
 
-	- Send an e-mail to [events@readytofly.org] (mail://events@readytofly.org)
-	- Or call at [+39 333 7144804] (tel://+393337144804)
+- Send an e-mail to [events@readytofly.org](mail://events@readytofly.org)
+- Or call at [+39 333 7144804](tel://+393337144804)
 
 On this phone number that will be always on “Ready to FLY” will respond on English/ Spanish/ Italian and Russian  language in order to give all the necessary information to the participants.      
 
@@ -26,4 +30,5 @@ EmbedManager.embed({
 	key: "http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867",
 	width: "100%"
 });
-</script> <!-- Notes:  To control the width of the form, change width: "100%" to any number or percentage. To pre-populate fields in the form or to use a custom resize callback, see http://fs18.formsite.com/documentation/embedded-form.html --></p>
+</script> 
+<!-- Notes:  To control the width of the form, change width: "100%" to any number or percentage. To pre-populate fields in the form or to use a custom resize callback, see http://fs18.formsite.com/documentation/embedded-form.html --></p>

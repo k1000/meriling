@@ -29,6 +29,7 @@ It's possible to attend separate one day paying 50€
 ###Base SMS Retreat with Jim Valby
 *2 - 6 Noviember 2012*
 
+Jim Valby is one of most recognized desciples of Master Chögyal Namkhai Norbu and known to be great introducer of essence of Dzogchen teachings covered in "The Great Vase" book where Master gives the base for study and practice of this precious teachings. However its not 
 Prices:
 
 - Ordinary member  150€
