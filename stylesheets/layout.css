@@ -21,7 +21,11 @@ body{
    background: #E4DECA url(../images/background.png);
    font-family: Georgia, "Times New Roman", Times, serif;
 }
-
+li {
+    list-style: outside;    
+    list-style-type: disc;
+    padding-left: 20px;
+}
 header h1,
 header h2 {
     display:block;

@@ -170,3 +170,5 @@ Dzogchen Community Members:
 - Meritorious member (-100%) 0€
 
 It's possible to attend separate day paying 50€
+
+Place: To be established
