@@ -2,6 +2,7 @@
 layout: azul
 categories: azul retiros
 title: Agenda de los Retiros y otros eventos en Tenerife año 2012/13
+lang: es
 ---
 ###Retiro Longsal Ati Gonpa Ngotrod
 *26 - 30 Octubre 2012*

@@ -10,7 +10,7 @@ title: Retreat venue
 [about hotel](http://www.tripadvisor.es/Hotel_Review-g664636-d1379280-Reviews-Callao_Sport_Hotel-Callao_Salvaje_Tenerife_Canary_Islands.html)
 
 ##Acommodation Reservation
-This year we relay on professionals in order to provide best service possible to retreats participants. Using service of "Ready to Fly" touroperator gives you personalizad experience ajusted to your needs, budget and duration of visit. Also it helps us to organize and finance programmed events. So please use it.
+This year we relay on professionals in order to provide the best service possible. "Ready to Fly" touroperator offers you personalizad experience ajusted to your needs, budget and duration of visit. Helps us to organize and finance programmed events. So please use it.
 
 Ask “Ready to Fly” for a non-binding quotation by filling the application form below.
 
