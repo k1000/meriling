@@ -142,7 +142,8 @@ C/ Tagara, 2 (Barrio Las Torres) 38670 ADEJE
 *11 - 17th January 2013*
 
 [culturatibetanatenerife.es](http://culturatibetanatenerife.es/)
-Place: to be confirmed.
+
+Place: Convento Santo Domingo - San Cristobal de la Laguna
 
 ###Celebration of Losar - Tibetan New Year
 
