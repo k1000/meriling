@@ -37,9 +37,10 @@ var Mapper = function( map_canvas, options ){
 	};
 
 	return this;
-}
+};
 
 
+/*
 //https://developers.google.com/+/plugins/badge/config
 window.___gcfg = {lang: 'es'};
 (function() 
@@ -71,3 +72,4 @@ function render_feed( colection ){
     po.src = google_json;
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
+*/

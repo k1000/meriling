@@ -2,6 +2,7 @@
 layout: azul
 categories: azul retiros
 title: Retreats and other events in Tenerife 2012/13
+lang: en
 ---
 ###Longsal Ati Gonpa Ngotrod Retreat
 *26 - 30 Octuber 2012*
