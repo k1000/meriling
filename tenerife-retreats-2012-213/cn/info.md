@@ -30,7 +30,7 @@ lang: cn
 - 勝利會員(減100%) 0 歐元
 - 可允許未全程參與,單日計費:50 歐元
 
-地點: Punta del Hidalgo - Tenerife Hotel Oceano - Punta del Hidalgo - Tenerife
+地點: [Tenerife Hotel Oceano](/tenerife-retreats-2012-213/cn/punta) - Punta del Hidalgo - Tenerife
 
 ###與 金.瓦比 Jim Valby 的基礎SMS閉關
 *2 - 6 日 十一月 2012*
@@ -42,13 +42,13 @@ Jim Valby 是上師 南開諾布仁波切最熟為人知的弟子之一
 - 普通會員 150 歐元
 - 減額會員(減 50%)75 歐元
 
-地點:Place: Meriling / Punta del Hidalgo - Tenerife
+地點: [Meriling](/tenerife-retreats-2012-213/cn/punta)
 
 ###金剛舞 教師會議
 *2 - 7日 十一月 2012*
 
 通知: Yolanda Ferrandiz: yfguerrero@yahoo.es
-地點: Grand Hotel Callao
+地點: [Grand Hotel Callao](/tenerife-retreats-2012-213/cn/callao)
 
 ###大圓滿同修會教義、幻輪瑜伽 和金剛舞教師會議
 *9 - 13日 十一月 2012*
@@ -97,7 +97,7 @@ Jim Valby 是上師 南開諾布仁波切最熟為人知的弟子之一
 
 可允許未全程參與,單日計費:50 歐元
 
-地點:[Grand Hotel Callao](/tenerife-retreats-2012-213/cn/callao)
+地點: [Grand Hotel Callao](/tenerife-retreats-2012-213/cn/callao)
 
 ###施身法閉關 – 教學與實修
 *7 - 13日 十月 2012*
@@ -120,7 +120,7 @@ Jim Valby 是上師 南開諾布仁波切最熟為人知的弟子之一
 
 可允許未全程參與,單日計費:50 歐元
 
-地點: Grand Hotel Callao
+地點: [Grand Hotel Callao](/tenerife-retreats-2012-213/cn/callao)
 
 ###古汝札普(忿怒蓮師金剛橛)-- 閉關與實修
 *26 - 30 日 十月 2012*
