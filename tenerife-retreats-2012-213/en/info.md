@@ -44,18 +44,18 @@ Place: Meriling / Punta del Hidalgo - Tenerife
 *2 - 7 Noviember 2012*
 
 Info: Yolanda Ferrandiz: yfguerrero@yahoo.es 
-Place: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Place: [Grand Hotel Callao](/tenerife-retreats-2012-213/en/callao)
 
 ###Meeting of Sant Maha Sangha, Yantra Yoga and Vajra Dance instructors
 *9 - 13, November 2012*
 
 Price: 250€
-Lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Lugar: [Grand Hotel Callao](/tenerife-retreats-2012-213/en/callao)
 
 ###Yantra Yoga teachers training
 **15 - 22, November 2012**
 
-Place: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Place: [Grand Hotel Callao](/tenerife-retreats-2012-213/en/callao)
 
 ###Longsal Longde Retreat
 **23 - 29, November 2012**
@@ -85,7 +85,7 @@ Dzogchen Community Members:
 
 It's possible to attend separate day paying 50€
 
-Place: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Place: [Grand Hotel Callao](/tenerife-retreats-2012-213/en/callao)
 
 ###Chöd Retreat - teachings & practice
 *7 - 13, December 2012*
@@ -109,7 +109,7 @@ Dzogchen Community Members:
 
 It's possible to attend separate day paying 50€
 
-Place: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Place: [Grand Hotel Callao](/tenerife-retreats-2012-213/en/callao)
 
 ###Retiro Guru Dragphur - teachings & practice
 *26 December 2012 - 1 January 2013*
