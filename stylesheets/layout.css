@@ -197,11 +197,12 @@ time {
 .index > header a{
     text-decoration: none;
     color: black;
-    padding: 6px 10px;
+    padding: 12px 10px;
     display: block;
     text-shadow: 0 1px 1px white;
-    border-top: 1px dotted #A39076;
+    border-top: 1px dotted #FFFFFF;
     font-size: 1.3em;
+    padding-left: 40px;
 }
 .index hgroup {
     display: block;
@@ -268,16 +269,16 @@ time {
     margin: 0;
 }
 .es a {
-    background: url(../images/flags/Spain-icon.png) no-repeat;
+    background: url(../images/flags/Spain-icon.png)  0 center no-repeat;
 }
 .en a {
-    background: url(../images/flags/United-Kingdo-icon.png) no-repeat;
+    background: url(../images/flags/United-Kingdo-icon.png) 0 center no-repeat;
 }
 .ru a {
-    background: url(../images/flags/Russian-Federation-icon.png) no-repeat;
+    background: url(../images/flags/Russian-Federation-icon.png) 0 center no-repeat;
 }
 .cn a {
-    background: url(../images/flags/China-icon.png) no-repeat;
+    background: url(../images/flags/China-icon.png) 0 center no-repeat;
 }
 /* #Media Queries
 ================================================== */
