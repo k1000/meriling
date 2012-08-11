@@ -35,8 +35,8 @@ Hotel Oceano - Punta del Hidalgo - Tenerife
 Jim Valby is one of most recognized desciples of Master Chögyal Namkhai Norbu and known to be great introducer of essence of Dzogchen teachings covered in "The Great Vase" book where Master gives the base for study and practice of this precious teachings. However its not 
 Prices:
 
-- Ordinary member  150€
-- Reduced member (-50%) 75€
+- Ordinary member 120€
+- Reduced member (-50%) 60€
 
 Place: Meriling / Punta del Hidalgo - Tenerife
 

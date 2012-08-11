@@ -33,7 +33,9 @@ Hotel Oceano - Punta del Hidalgo - Tenerife
 Jim Valby es uno de los más reconocidos discípulos del Maestro y un gran introductor de la esencia de las enseñanzas Dzogchen contenidas en libro "La Jarra Preciosa" (Santi Maha Sangha) donde el Maestro pone las bases para el estudio y práctica de esta preciosa enseñanza.  Aunque no es obligatorio realizar la Base de SMS, Maestro recomienda que todos los practicantes que tienen un serio interés en el Dzogchen lo hagan. 
 
 Precios para miembros de la Comunidad:
-- Socio Ordinario 150€
+
+- Socio Ordinario 120€
+- Socio Reducido (-50%) 60€
 
 lugar: Meriling / Punta del Hidalgo - Tenerife
 
