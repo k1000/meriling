@@ -4,11 +4,22 @@ categories: azul retiros
 title: Agenda de los Retiros y otros eventos en Tenerife año 2012/13
 lang: es
 ---
+###Acto oficial de la apertura de los eventos con el Maestro
+*22 Octubre 2012*
+
+**Rueda de prensa** con invitadas autoridades, políticos y los periodistas. Rinpoche presentará la Comunidad, el programa de los Eventos y responderá a las preguntas.
+
+**Conferencia pública** del Rinpoche con el título **"Dzogchen en el mundo moderno"**.
+
+Lugar: Universidad de La Laguna
+
 ###Retiro Longsal Ati Gonpa Ngotrod
 *26 - 30 Octubre 2012*
 
 La Upadesha de la Introdución al Estado Ati (*A ti'i dgongs pa ngo sprod kyi man ngag*), escrita en 1983, es la extraordinaria enseñanza del gran Maestro Vairochana (VII siglo) que introduce el autentico principio de *Atiyoga* o *Dzogpa Chenpo*, presentando las esenciales instruciones de las Cuatro Contemplaciones del Semde y los fundamentales aspectos de la pureza primordial (*ka dag*) con la infinita potencialidad (*lhun grub*). Upadesha ha sido descubierta mediante los sueños de claridad y esta conectada directamente con el mismo Maestro Vairochana, el *maestro raiz* del autor guru Rigdzin Chang-chub Dorje (1826-1961) y su tío Khyentse Rinpoche Chökyi Wangchug (1910-1963) el cual era uno de sus maestros principales.
-*Adriano Clemente - "Preface of Longsal Teachings Vol. II May, 2001"*
+*Adriano Clemente - "Preface of Longsal Teachings Vol. II May, 2001"
+
+[Consulten aqui el programa actualizado](https://docs.google.com/spreadsheet/pub?key=0AgWx3a78pFX_dGJYNDhpVHNuSDF0MEpGT1lwQWxrN0E&single=true&gid=0&range=A1:F8&output=html).
 
 Precios no miembros:
 
@@ -31,6 +42,10 @@ Hotel Oceano - Punta del Hidalgo - Tenerife
 *2 - 6 Noviembre 2012*
 
 Jim Valby es uno de los más reconocidos discípulos del Maestro y un gran introductor de la esencia de las enseñanzas Dzogchen contenidas en libro "La Jarra Preciosa" (Santi Maha Sangha) donde el Maestro pone las bases para el estudio y práctica de esta preciosa enseñanza.  Aunque no es obligatorio realizar la Base de SMS, Maestro recomienda que todos los practicantes que tienen un serio interés en el Dzogchen lo hagan. 
+
+Programa:
+
+- Todos los días sesiónes: 9 - 12h y 16 - 19h
 
 Precios para miembros de la Comunidad:
 
