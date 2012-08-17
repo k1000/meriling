@@ -4,10 +4,10 @@ categories: azul retiros
 title: Agenda de los Retiros y otros eventos en Tenerife año 2012/13
 lang: es
 ---
-###Acto oficial de la apertura de los eventos con el Maestro
+###Acto oficial de la apertura de los eventos en Tenerife
 *22 Octubre 2012*
 
-**Rueda de prensa** con invitadas autoridades, políticos y los periodistas. Rinpoche presentará la Comunidad, el programa de los Eventos y responderá a las preguntas.
+**Rueda de prensa** con la presencia del Maestro Chögyal Namkhai Norbu con invitadas autoridades, políticos y los periodistas. Rinpoche presentará la Comunidad, el programa de los Eventos y responderá a las preguntas.
 
 **Conferencia pública** del Rinpoche con el título **"Dzogchen en el mundo moderno"**.
 
@@ -35,8 +35,7 @@ Precios para los miembros de la Comunidad:
 
 Es posible atender un día suelto pagando 50€ (con los desuentos habituales).
 
-lugar: Punta del Hidalgo - Tenerife
-Hotel Oceano - Punta del Hidalgo - Tenerife
+Lugar: [Hotel Oceano - Punta del Hidalgo - Tenerife](/tenerife-retreats-2012-213/es/punta)
 
 ###Retiro Base SMS con Jim Valby
 *2 - 6 Noviembre 2012*
@@ -51,25 +50,27 @@ Precios para miembros de la Comunidad:
 
 - Socio Ordinario 120€
 - Socio Reducido (-50%) 60€
+- Socio Sostenedor (-80%) 30€
 
 lugar: Meriling / Punta del Hidalgo - Tenerife
 
 ###Encuentro de Instructores de la Danza de Vajra
 *2 - 7 Noviembre 2012*
 
-lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Lugar: [Grand Hotel Callao](/tenerife-retreats-2012-213/es/callao)
 
 
 ###Encuentro de Instructores SMS, Danza de Vajra y Yantra Yoga
 *9 - 13, Noviembre 2012*
 
 Precio: 350€
-lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+
+Lugar: [Grand Hotel Callao](/tenerife-retreats-2012-213/es/callao)
 
 ###Taller para los instructores de Yantra Yoga
 **15 - 22, Noviembre 2012**
 
-lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Lugar: [Grand Hotel Callao](/tenerife-retreats-2012-213/es/callao)
 
 ###Retiro Longsal Longde
 **23 - 29, Noviembre 2012**
@@ -96,12 +97,13 @@ Precios para los miembros de la Comunidad:
 
 Es posible atender un día suelto pagando 50€ (con los desuentos habituales).
 
-lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Lugar: [Grand Hotel Callao](/tenerife-retreats-2012-213/es/callao)
 
 ###Retiro Chöd - enseñanzas y la práctica
 *7 - 13, Dieciembre 2012*
 
 La práctica del Chöd, muy extendida en Tibet, no sólo la podemos encontrar en las enseñanzas Dzogchen sino también en todas las escuelas budistas y en la tradición Bönpo. Su origen se atribuye a la Maestra *Machig Labdrön*  manifestación de Vajrayogini. La práctica del Chöd ha nació como esencia de todas las prácticas que ella ha recibió, y esta marcada directamnte por su particular experiencia y sabiduría. Ella comprendió que la raíz de todos nuestros problemas es nuestro ego, porque él es la causa de todas las limitaciones. Así el principio del Chöd es la liberación de la nuestra condición *nyem*, nuestro ego.
+
 *Chögyal Namkhai Norbu, Chöd - Shang Shung Edizioni, 1999*
 
 Precios no miembros:
@@ -119,7 +121,7 @@ Precios para los miembros de la Comunidad:
 
 Es posible atender un día suelto pagando 50€ (con los desuentos habituales).
 
-lugar: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+Lugar: [Grand Hotel Callao](/tenerife-retreats-2012-213/es/callao)
 
 ###Retiro Guru Dragphur - enseñanzas y la práctica
 *26 Dieciembre 2012 - 1 Enero 2013*
@@ -142,7 +144,7 @@ Precios para los miembros de la Comunidad:
 
 Es posible atender un día suelto pagando 50€ (con los desuentos habituales).
 
-lugar: Complejo Polideportivo Municipal Las Torres
+Lugar: Complejo Polideportivo Municipal Las Torres
 C/ Tagara, 2 (Barrio Las Torres) 38670 ADEJE
 
 ###III Semana de la Cultura Tibetana en Tenerife
