@@ -6,9 +6,10 @@ map:
 title: Retreat venue
 lang: es
 ---
-##Venue - Meriling
+##Lugar - Hotel Océano
+[Hotel Océano](http://www.oceano.de/es/hotel.html)
 
-##Acommodation Reservation
+##Reservación del alojamiento etc.
 Este año contamos con los profecionales para pror el mejor el servicio posible. Touroperator "Ready to Fly" nos ofrece una experiencia personalizada que se ajusta a tus necesidades, presupuesto y duración de la visita. Nos ayudan organizar y financiar los eventos previstos. Por favor usen sus servicios.
 
 Rellena el formulario de solicitud sin compromiso.
