@@ -151,11 +151,11 @@ C/ Tagara, 2 (Barrio Las Torres) 38670 ADEJE
 *11 - 17 Enero 2013*
 
 [culturatibetanatenerife.es](http://culturatibetanatenerife.es/)
-lugar: Museo de Antropologia de la Laguna
-San Cristobal de la Laguna - Tenerife
+
+Lugar: Convento del Santo Domingo - San Cristobal de la Laguna
 
 ###Celebración del Losar Tibetano
-Tenerife
+
 Todavía no hay información disponible sobre este evento
 
 ###Retiro de Chüdlen de Mandarava 
