@@ -16,12 +16,12 @@ profiles:
   - label: facebook
     url: https://www.facebook.com/meriling
   - label: twitter
-    url: https://twitter.com/meriling/
+    url: https://www.facebook.com/merilingtenerife
   - label: YouTube
     url: https://www.youtube.com/user/meriling
 disqus:author:
   name: Meriling
-  email: info@meriling.es
+  email: kamil.azul@meriling.es
   nick: meriling
   config:
     - label: disqus_shortname
