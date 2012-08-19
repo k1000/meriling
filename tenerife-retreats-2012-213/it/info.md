@@ -40,7 +40,7 @@ Prezzi per i soci della comunitá:
 
 É possibile partecipare a un solo giorno pagando 50€ (con sconti abituali).
 
-localizzazione: Hotel Oceano - Punta del Hidalgo - Tenerife
+localizzazione: [Hotel Oceano - Punta del Hidalgo - Tenerife](/tenerife-retreats-2012-213/it/punta)
 
 ###Ritiro Base SMS con Jim Valby
 *2 - 6 Noviembre 2012*
@@ -62,18 +62,18 @@ localizzazione: Meriling / Punta del Hidalgo - Tenerife
 ###Incontro per gli istruttori della Danza del Vajra
 *2 - 7 Novembre 2012*
 
-localizzazione: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Incontro con gli istruttori del SMS, Danza del Vajra e Yantra Yoga
 *9 - 13, Novembre 2012*
 
 Prezzo: 350€
 
-localizzazione: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Corso per istruttori di Yantra Yoga
 *15 - 22, Novembre 2012*
-localizzazione: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Ritiro Longsal Longde
 *23 - 29, Novembre 2012*
@@ -102,7 +102,7 @@ Prezzi per i soci della comunitá
 
 É possibile partecipare a un solo giorno pagando 50€ (con sconti abituali).
 
-localizzazione: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Ritiro Chöd - insegnanza e pratica
 *7 - 13, Dicembre 2012*
@@ -128,7 +128,7 @@ Prezzi per i soci della comunitá:
 
 É possibile partecipare a un solo giorno pagando 50€ (con sconti abituali).
 
-localizzazione: [Grand Hotel Callao](/azul/tenerife-south-accomodation)
+localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Ritiro Guru Dragphur - insegnamento e pratica
 *26 Dicembre 2012 - 1 gennaio 2013*
