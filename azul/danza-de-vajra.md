@@ -2,7 +2,8 @@
 layout: azul
 categories: azul eneseñanzas
 images: dajza.jpeg
-youtube: UyLz5DKN2yg
+youtube: 
+UyLz5DKN2yg
 autor: Prima Mai
 title: La Danza del Vajra
 ---
