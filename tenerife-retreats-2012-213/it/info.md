@@ -131,12 +131,26 @@ Prezzi per i soci della comunitá:
 ###Ritiro Guru Dragphur - insegnamento e pratica
 *26 Dicembre 2012 - 1 gennaio 2013*
 
+Complesso Polideportivo Municipale Las Torres
+C/ Tagara, 2 (Barrio Las Torres) Adeje
+
 La ragione principale per praticare le varie manifestazioni del Sambhogakaya é ottenere la realizzazione totale della conoscenza della nostra vera potenzialitá attraverso l'esperienza della chiaritá.
 La nostra esistenza, a livello relativo,, é piena di problemi, confusione e provocazioni negative prodotte da altri esseri. Questa pratica include molte funzioni secondarie per trattare questo tipo di provocazioni.
-Prezzi per i non soci:- Iscrizione normale- 320€- Iscrizione ridotta (reddito minimo) - 160€ Prezzi per i soci della comunitá- Socio Ordinario (-20%) 256€- Socio Reducido (-50%) 160€- Socio Sostenitore Merigar (-80%) 64€- Socio Sostenitore altri gar (-80%) 192€- Socio ad onorem (-100%) 0€
+
+Prezzi per i non soci:
+
+- Iscrizione normale- 320€
+- Iscrizione ridotta (reddito minimo) - 160€ 
+
+Prezzi per i soci della comunitá
+
+- Socio Ordinario (-20%) 256€
+- Socio Reducido (-50%) 160€
+- Socio Sostenitore Merigar (-80%) 64€
+- Socio Sostenitore altri gar (-80%) 192€
+- Socio ad onorem (-100%) 0€
+
 É possibile partecipare a un solo giorno pagando 50€ (con sconti abituali).
-localizzazione: Complesso Polideportivo Municipale Las Torres
-C/ Tagara, 2 (Barrio Las Torres) 38670 ADEJE
 
 ###III Settimana della Cultura Tibetana in Tenerife
 *11 - 17 gennaio 2013*
