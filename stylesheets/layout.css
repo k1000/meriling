@@ -274,6 +274,9 @@ time {
 .en a {
     background: url(../images/flags/United-Kingdo-icon.png) 0 center no-repeat;
 }
+.it a {
+    background: url(../images/flags/Italy.png) 0 center no-repeat;
+}
 .ru a {
     background: url(../images/flags/Russian-Federation-icon.png) 0 center no-repeat;
 }
