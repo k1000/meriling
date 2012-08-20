@@ -1,8 +1,8 @@
 ---
 layout: azul
 categories: azul retiros
-title: Agenda de los Retiros y otros eventos en Tenerife año 2012/13
 lang: es
+title: Agenda de los Retiros y otros eventos en Tenerife año 2012/13
 ---
 ###Acto oficial de la apertura de los eventos en Tenerife
 *22 Octubre 2012*
