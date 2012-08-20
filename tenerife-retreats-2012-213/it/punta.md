@@ -2,7 +2,6 @@
 layout: azul
 image: 
 categories: reserva lugar retiro
-map:
 title: Ritiri al Hotel Océano
 lang: it
 ---

@@ -10,7 +10,7 @@ title: Meriling - Ubicación
 Dirreción
 -------------
 
-    MERILING
+    **MERILING**
     Calle Océano Pacífico 6
     38240 - La Punta del Hidalgo
     Santa Cruz de Tenerife
@@ -22,13 +22,17 @@ tel.: (+34) 922 156 429
 ¿Como llegar?
 -------------
 * desde Aeropuerto Tenerife Sur (TFS)
-    * con guagua (BUS)
-        * desde aueropuerto coger guagua al terminal de *Santa Cruz de Tenerife* (cada 30 min.)
-        * desdé terminal del bus de *Santa Cruz de Tenerife* coger guagua a *La Punta del Hidalgo* - [línea 105](http://www.titsa.com/index.php?accion=linea&IdLinea=105)
+
+    - con guagua (BUS)
+
+        - desde aueropuerto coger guagua al terminal de *Santa Cruz de Tenerife* (cada 30 min.)
+        - desdé terminal del bus de *Santa Cruz de Tenerife* coger guagua a *La Punta del Hidalgo- [línea 105](http://www.titsa.com/index.php?accion=linea&IdLinea=105)
 
 * desde Aeropuerto Tenerife Norte (TFN)
-    * con guagua (BUS)
-        * desde aueropuerto coger la guagua al terminal de -La Laguna- (cada 30 min.)
-        * desdé terminal del bus de -La Laguna- coger la guagua a *La Punta del Hidalgo* - [línea 50](http://www.titsa.com/index.php?accion=linea&IdLinea=50)
-    * con TAXI - aprox. 15€
+
+    - con guagua (BUS)
+
+        - desde aueropuerto coger la guagua al terminal de -La Laguna- (cada 30 min.)
+        - desdé terminal del bus de -La Laguna- coger la guagua a *La Punta del Hidalgo* - [línea 50](http://www.titsa.com/index.php?accion=linea&IdLinea=50)
+    - con TAXI - aprox. 15€
       

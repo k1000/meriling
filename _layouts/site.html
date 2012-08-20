@@ -48,6 +48,10 @@ layout: base
 		</div>
 		{% endif %}
 
+		{% if page.iframe %}
+		<iframe width='100%' height='500' frameborder='0' src='{{ page.iframe }}'></iframe>
+		{% endif %}
+
 		<div class="social">
 			<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="jtauber">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 			<!-- Place this tag where you want the +1 button to render -->

@@ -1,6 +1,7 @@
 ---
 layout: amarillo
 categories: amarillo
+iframe: https://docs.google.com/spreadsheet/pub?hl=es&hl=es&key=0AngnTJpvFksydDVWVHA4NlVzTUlHU3JBX2stbTBHanc&output=html&widget=true
 title: Libros
 ---
 En Meriling ofrecemos libros en la venta.
