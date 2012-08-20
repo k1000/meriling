@@ -1,8 +1,8 @@
 ---
 layout: azul
-title: Dzogchen
 categories: azul
 youtube: DaJwuhs0ZPM
+title: Dzogchen
 ---
 La enseñanza Dzogchen, la Gran Perfección es considerada la culminación de todas las escuelas tibetanas, el camino más alto e inmediato para el progreso espiritual. Más que una doctrina religiosa, puede ser definida como un sistema de sabiduría interior por la gran importancia que asume en esto el desarrollo del conocimiento del individuo. En este camino espiritual se recorre un camino de autoconciencia, abierta a todos, en el que es esencial la libertad personal y no la obligación de seguir reglas y votos monásticos. La práctica fundamental consiste en llegar al conocimiento profundo de uno mismo y de la propia realidad esencial, a través de las diversas experiencias de la vida cotidiana. Por este motivo, el Dzogchen se adapta particularmente a las exigencias de nuestra sociedad contemporánea.
 
@@ -19,7 +19,6 @@ Para más información general sobre Dzogchen los siguientes libros son de gran 
 
 - "Dzogchen, el Estado de Autoperfección" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed La Llave)
 - "El Cristal y la Vía de la Luz" de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Kairos)
-- "Beyond Words - Dzogchen Made Simple" de Julia Lawless and Judith Allan, 
-con introducción de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Element de HarperCollins)
+- "Beyond Words - Dzogchen Made Simple" de Julia Lawless and Judith Allan, con introducción de [Chögyal Namkhai Norbu](azul/chogyal-namkhai-norbu) (Ed Element de HarperCollins)
 
  

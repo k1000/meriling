@@ -1,10 +1,11 @@
 ---
 layout: azul
-title: Chögyal Namkhai Norbu
 categories: azul
-img: /images/maestro-risas.jpg
+image: maestro-risas.jpg
+lang: es
+title: Chögyal Namkhai Norbu
 ---
-Chögyal Namkhai Norbu es uno de los grandes maestros del Dzogchén, ha desarrolado su vida profesional como profesor universitario, escritor e investigador de la historia del Tíbet.
+Chögyal Namkhai Norbu es uno de los grandes maestros del [Dzogchén](/azul/dzogchen), ha desarrolado su vida profesional como profesor universitario, escritor e investigador de la historia del Tíbet.
 
 Nació en Derge, Kham (distrito este de Tíbet) el 8 de diciembre de 1938. Cuando tenía dos años, Chögyal Namkhai Norbu fue reconocido como la reencarnación o tulku, del gran maestro Dzogchen, Adzom Drugpa (1842-1924), también fue reconocido como una reencarnación de Shabdrung Ngawang Namgyal(1594-1651).
 
