@@ -68,11 +68,12 @@ localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 Prezzo: 350€
 
-localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
+[Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Corso per istruttori di Yantra Yoga
 *15 - 22, Novembre 2012*
-localizzazione: [Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
+
+[Grand Hotel Callao](/tenerife-retreats-2012-213/it/callao)
 
 ###Ritiro Longsal Longde
 *23 - 29, Novembre 2012*
@@ -156,10 +157,9 @@ Prezzi per i soci della comunitá
 ###III Settimana della Cultura Tibetana in Tenerife
 *11 - 17 gennaio 2013*
 
-[culturatibetanatenerife.es](http://culturatibetanatenerife.es/)
+Convento de Santo Domingo - San Cristobal de la Laguna - Tenerife
 
-localizzazione: Convento de Santo Domingo
-San Cristobal de la Laguna - Tenerife
+[culturatibetanatenerife.es](http://culturatibetanatenerife.es/)
 
 ###Celebrazione del Losar Tibetano
 

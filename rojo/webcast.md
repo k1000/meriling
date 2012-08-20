@@ -2,7 +2,9 @@
 layout: rojo
 section: rojo
 categories: rojo
---- 
+---
+Para consultar próximas webcast de los retiro dirigese a la [Agenda de Activiad Meriling](http://meriling.es/rojo/)
+
 ##Webcast abierta
 
 Todo mundo pude seguir las webcast abbirtas. Para conectarte a una, haz clic en el siguiente enlace: <http://www.shangshunginstitute.net/webcast/index.php>.

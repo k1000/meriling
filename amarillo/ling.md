@@ -8,18 +8,21 @@ map:
 title: Meriling - Ubicación
 ---
 Dirreción
--------------
+---------
 
     **MERILING**
     Calle Océano Pacífico 6
     38240 - La Punta del Hidalgo
     Santa Cruz de Tenerife
     España
-    
-[consulta en el plano](https://maps.google.es/maps/ms?msid=214651137637588069815.0004b2b9fc863d96282f6&msa=0&ll=28.566959,-16.331627&spn=0.004561,0.010568)
+
 tel.: (+34) 922 156 429
 
-¿Como llegar?
+[consulta en el plano](https://maps.google.es/maps/ms?msid=214651137637588069815.0004b2b9fc863d96282f6&msa=0&ll=28.566959,-16.331627&spn=0.004561,0.010568)
+
+
+
+###¿Como llegar?
 -------------
 * desde Aeropuerto Tenerife Sur (TFS)
 
