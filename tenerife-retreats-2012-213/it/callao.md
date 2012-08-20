@@ -2,9 +2,8 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: reserva lugar retiro
-map:
+lang: it
 title: Ritiri al Grand Hotel Callao
-lang: es
 ---
 [info hotel](http://www.hotelgrandcallao.com/)
 (http://www.tripadvisor.es/Hotel_Review-g664636-d1379280-Reviews-Callao_Sport_Hotel-Callao_Salvaje_Tenerife_Canary_Islands.html)
@@ -20,9 +19,7 @@ Compila il formulario delle richieste senza compromesso.
 Per maggiori informazioni per i partecipanti:
 
 - Spedisci un e-mail a [events@readytofly.org](mail://events@readytofly.org)
-- O chiama al [+39 333 7144804](tel://+393337144804)
-
-Questo numero é attivo le 24 ore.
+- O chiama al [+39 333 7144804](tel://+393337144804) Questo numero é attivo le 24 ore.
 
 “Ready to FLY” sará lieto di risponderti in Inglese/ Spagnolo/ Italiano o Russo       
 Ready To Fly S.r.l.Corso Buenos Aires 56 - 20124 Milano – ITALY 
