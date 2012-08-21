@@ -2,9 +2,9 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: azul maestros
-map:
-title: 閉關場地
 lang: cn
+iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
+title: 閉關場地
 ---
 ##場地- Grand Hotel Callao
 [Grand Hotel Callao](http://www.hotelgrandcallao.com/)

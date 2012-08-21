@@ -2,9 +2,9 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: reserva lugar retiro
-map:
-title: Lugar del Retiro
+iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
 lang: es
+title: Lugar del Retiro
 ---
 ##Lugar - Grand Hotel Callao
 [Grand Hotel Callao](http://www.hotelgrandcallao.com/)

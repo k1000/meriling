@@ -1,9 +1,9 @@
 ﻿---
 layout: azul
-image: 
 categories: reserva lugar retiro
-title: Ritiri al Hotel Océano
+iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
 lang: it
+title: Ritiri al Hotel Océano
 ---
 ##Localizzazione - Hotel Océano
 [Hotel Océano](http://www.oceano.de/es/hotel.html)

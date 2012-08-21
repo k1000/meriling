@@ -2,9 +2,9 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: azul maestros
-map:
-title: Retreat venue
+iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
 lang: es
+title: Retreat venue
 ---
 ##Lugar - Hotel Océano
 [Hotel Océano](http://www.oceano.de/es/hotel.html)
