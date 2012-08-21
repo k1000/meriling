@@ -40,9 +40,10 @@ header h1{
     margin: .3em 0 0 0;
     font-size: 2.3em;
 }
-header h2{
+header h2 a{
     text-indent: -999em;
-    background: #fff url(../images/DC-canarias-logo.png) center no-repeat; 
+    display: block;
+    background: #fff url(../images/logos/logo-longsal-meriling.png) center no-repeat; 
     margin: 0;
     margin-bottom: 20px;
 }
