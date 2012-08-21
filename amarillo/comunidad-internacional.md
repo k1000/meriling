@@ -21,41 +21,41 @@ La relación entre  Gares y Lings, representa el corazón de la Comunidad Dzogch
 
 ##Gares en el mundo
 
-	- Merigar West - Italy <http://www.dzogchen.it>
-	- Merigar East - Romania <http://www.dzogchen.ro>
-	- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
-	- Tsegyalgar East - USA - Massachusetts <http://www.tsegyalgareast.org>
-	- Tsegyalgar West - Mexico - Baja <http://www.tsegyalgarwest.org>
-	- Tashigar Norte - Venezuela <http://www.tashigarnorte.org>
-	- Tashigar Sur - Argentina <http://www.tashigar-sur.com.ar>
-	- Namgyalgar - Australia <http://www.dzogchen.org.au>
+- Merigar West - Italy <http://www.dzogchen.it>
+- Merigar East - Romania <http://www.dzogchen.ro>
+- Kunsangar South - Ukraina <http://www.dzogchencommunity.ru>
+- Tsegyalgar East - USA - Massachusetts <http://www.tsegyalgareast.org>
+- Tsegyalgar West - Mexico - Baja <http://www.tsegyalgarwest.org>
+- Tashigar Norte - Venezuela <http://www.tashigarnorte.org>
+- Tashigar Sur - Argentina <http://www.tashigar-sur.com.ar>
+- Namgyalgar - Australia <http://www.dzogchen.org.au>
  
 ##Lings
 
 USA
 
-	- Kundrolling, NYC <http://www.nydzogchen.com>
-	- Dondrupling, Berkeley California <http://www.dzogchencommunitywest.org>
-	- Seattle, Washington <http://www.dzogchenseattle.org>
+- Kundrolling, NYC <http://www.nydzogchen.com>
+- Dondrupling, Berkeley California <http://www.dzogchencommunitywest.org>
+- Seattle, Washington <http://www.dzogchenseattle.org>
 	 
 Europa
 
-	- Austria <http://www.dzogchen.at>
-	- Czech Republic <http://www.dzogchen.cz>
-	- France <http://www.association-dzogchen.org>
-	- Germany <http://www.dzogchen.de>
-	- Great Britain <http://www.dzogchencommunity.org>
-	- Greece <http://www.dzogchen.gr>
-	- Holland <http://www.dzogchen.nl>
-	- Hungary <http://www.dzogchen.hu>
-	- Lithuania <http://www.dzogchen.lt>
-	- Poland <http://www.dzogczen.pl>
-	- Slovakia <http://www.dzogchen.sk>
-	- Switzerland <http://www.dzogchen.ch>
-	- Spain Kundusling <http://www.dzogchen.es>
-	- Italy <http://www.merigar.it>
-	- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
+- Austria <http://www.dzogchen.at>
+- Czech Republic <http://www.dzogchen.cz>
+- France <http://www.association-dzogchen.org>
+- Germany <http://www.dzogchen.de>
+- Great Britain <http://www.dzogchencommunity.org>
+- Greece <http://www.dzogchen.gr>
+- Holland <http://www.dzogchen.nl>
+- Hungary <http://www.dzogchen.hu>
+- Lithuania <http://www.dzogchen.lt>
+- Poland <http://www.dzogczen.pl>
+- Slovakia <http://www.dzogchen.sk>
+- Switzerland <http://www.dzogchen.ch>
+- Spain Kundusling <http://www.dzogchen.es>
+- Italy <http://www.merigar.it>
+- Russian-Speaking Countries <http://www.dzogchencommunity.ru>
 
 Otros
 
-	- Israel <http://dzogchen.org.il>
+- Israel <http://dzogchen.org.il>

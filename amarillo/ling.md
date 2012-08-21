@@ -4,7 +4,7 @@ categories: amarillo
 map:
   lat: 28.566959
   lng: -16.331627
-  placename: Punta del Hidalgo Tenerife
+  name: Punta del Hidalgo Tenerife
 title: Meriling - Ubicación
 ---
 Dirreción
@@ -19,8 +19,6 @@ Dirreción
 tel.: (+34) 922 156 429
 
 [consulta en el plano](https://maps.google.es/maps/ms?msid=214651137637588069815.0004b2b9fc863d96282f6&msa=0&ll=28.566959,-16.331627&spn=0.004561,0.010568)
-
-
 
 ###¿Como llegar?
 -------------
