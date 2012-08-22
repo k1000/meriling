@@ -15,7 +15,7 @@
 
 	{% if page.map %}
 	<meta name="geo.position" content="{{ page.map.lat }}; {{ page.map.lng }}">
-	<meta name="geo.placename" content="{{ page.placename }}">
+	<meta name="geo.placename" content="{{ page.map.name }}">
 	{% endif %}
 	<!-- Mobile Specific Metas
 	================================================== -->
@@ -27,6 +27,7 @@
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
 	<link rel="stylesheet" href="stylesheets/layout.css?v=1">
 
+	<link rel="stylesheet" href="fonts/webfontkit-jura/stylesheet.css">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=tibetan' rel='stylesheet' type='text/css'>
 	<!-- Favicons
 	================================================== -->
