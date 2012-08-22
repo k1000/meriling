@@ -1,6 +1,5 @@
 ---
 layout: azul
-image: callao-salvaje.jpg
 categories: azul maestros
 iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
 lang: es
@@ -10,7 +9,7 @@ title: Retreat venue
 [Hotel Océano](http://www.oceano.de/es/hotel.html)
 
 ##Reservación del alojamiento etc.
-Este año contamos con los profecionales para pror el mejor el servicio posible. Touroperator "Ready to Fly" nos ofrece una experiencia personalizada que se ajusta a tus necesidades, presupuesto y duración de la visita. Nos ayudan organizar y financiar los eventos previstos. Por favor usen sus servicios.
+Este año contamos con los profecionales para ofrecer el mejor el servicio posible. Nuestro touroperator "Ready to Fly" nos ofrece una experiencia personalizada que se ajusta a tus necesidades, presupuesto y duración de la visita. Nos ayudan organizar y financiar los eventos previstos. Por favor usen sus servicios.
 
 Rellena el formulario de solicitud sin compromiso.
 

@@ -33,6 +33,7 @@ header h2 {
     float: left;
     width: 160px;
 }
+
 header h1{
     text-shadow: #A0A0A0 0px  1px;
     /*background: url(../images/meriling-logo.png) no-repeat;*/
@@ -188,6 +189,14 @@ time {
     background: transparent;
     /*background: #951c2f url(http://www.melong.com/files/images/nnrinpocze.jpg) no-repeat;
     background: url(../images/meriling-logo.svg) 10px 10px no-repeat;*/
+}
+.index > header h2{
+    text-indent: -999em;
+    display: block;
+    background: url(../images/logos/logo-longsal-meriling.png) center no-repeat; 
+    margin: 0;
+    margin-bottom: 20px;
+    width: 170px;
 }
 .index > header h3 a{ 
     margin: 0;

@@ -82,6 +82,7 @@ Otro famoso texto de esta serie es la tantra llamada *Namkha Tang Nyampai Gyüd*
 Longde es una de las enseñanzas Dzogchen de *Garab Dorje* que Mañjushrimitra  organizó en tres series.
 Longde es la intermedia de ellas. No tan abrupta y rápida como Menngagde (*Upadeshavarga*) y tampoco no tan aparentemente gradual y menos rápida como Semde.
 Esta enseñanza en particular pertenecen a la serie de las termas o las eseñanzas tesoro *Longsal* reveladas por *Tertön* Chögyal Namkhai Norbu. Es sumamente poco común que las enseñanzas *Longde* sean reveladas como termas, al contrario de casi todas las termas Dzogchen pertenecientes a serie Menngagde.
+
 *Elías Capriles - Santi Maha Sangha Instructor*
 
 Precios no miembros:
@@ -164,6 +165,7 @@ Todavía no hay información disponible sobre este evento
 Lugar por determinar
 
 El Chüdlen que estamos haciendo está conectado con una Práctica de Larga Vida. En general, la Práctica de Larga Vida es útil para fortalecer nuestra energía protectora. Esto es importante en todos los sentidos. Para que nos sea posible tener alguna realización a través de ciertas prácticas, antes que nada es necesario estar sano y libre de problemas físicos. Aunque uno no se dedique exclusivamente a la práctica, necesita vivir bien en la vida diaria y sólo se vive bien cuando no se tienen problemas, es decir, cuando la energía es perfecta y, especialmente, cuando la energía protectora está intacta. Si la energía tiene algunos puntos débiles es necesario reforzarla, así que tenemos que saber cómo hacerlo. Este es uno de los principios de la Práctica de Larga Vida. Muchos piensan que la Práctica de Larga Vida es una especie de oración, como recibir una especie de bendición, pero no es así. Esta práctica significa trabajar con uno mismo, utilizando la visualización, los mantras y las píldoras del Chüdlen.
+
 *Chögyal Namkhai Norbu – de un Comentario Oral dado en Merigar, Agosto 1986*
 
 Precios no miembros:
