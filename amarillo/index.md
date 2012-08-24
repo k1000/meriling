@@ -3,9 +3,7 @@ layout: amarillo
 title: Meriling
 categories: amarillo
 ---
-Meriling
-========
-Meriling es la sede de la Comunidad Dzogchen en Canarias. Es un centro donde se realizan y coordinan las prácticas, cursos, retiros etc. Ha sido fundad recientemente en año 2011.
+Meriling es la sede de la Comunidad Dzogchen en Canarias. Es un centro donde se realizan y coordinan las prácticas, cursos, retiros etc. Ha sido fundado recientemente en el año 2011.
 
 Actualmente se encuentra en una hermosa [casa en la Punta de Hidalgo](/amarillo/ling) en Tenerife.
 
