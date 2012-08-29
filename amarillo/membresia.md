@@ -18,13 +18,24 @@ Para que esta doble membresía sea posible y fácil para todo el mundo, a partir
 Esta doble membresía satisface un requisito administrativo sin que suponga ningún coste adicional para los miembros de la comunidad Dzogchen.
 Para cada miembro que de su consentimiento voluntariamente al sistema unificado, 5 euros de su cuota se pagarán al ISS como una parte de esta cuota de membresía conjunta.
 
+###Cuota de socio de la Comunidad – Merigar West
+
+El carnet de **socio ordinario** cuesta 129 euros al año, con un descuento del 20% en cursos* y retiros, una suscripción al Mirror on-line mensual y a la revista Merigar Letter.
+El **carnet de socio sostenedor** cuesta 500 euros, ofrece todos los cursos* y retiros en Europa al 80%. Además, el socio sostenedor también tiene derecho al empleo GRATUITO de las casitas para los retiros personales, a una suscripción al Mirror on-line, al Merigar Letter, y a una suscripción del Vídeo Journal con un 50% de descuento.
+El carnet de **socio benemérito** cuesta 1500 euros, con todos los descuentos previstos para los sostenedores, un descuento del 100% en todos los cursos y retiros, así como sobre las publicaciones nuevas de las Ediciones Shang Shung en este año y una suscripción gratuita al Video Journal. También tienen un regalo especial.
+El carnet de **socio reducido**, con un precio de 50 euros, es para los miembros que demuestren tener una renta mensual inferior a los 700 euros y tienen un 50% de descuento en cursos* y retiros, así como una suscripción al Mirror onĺine.
+
 Además de este miembro muy básico unificado, también existe la posibilidad de ser **miembro de apoyo del Instituto Shang Shung por una cuota anual de 50 euros**. Más información [AQUI](http://kundusling.squarespace.com/blog-comunidad-dzogchen/2012/2/8/campaa-2012-membresia-de-shang-shung-institute.html).
 
 Otra de las novedades es que **el periódico de la comunidad The Mirror estarà disponible en su versión online para todos los socios de la Comunidad**, independientemente del tipo de cuota. En cuanto a la versión impresa, sigue siendo gratuita para los socios beneméritos, pero **aquellos socios sostenedores que quieran seguir recibiéndola habrán de indicarlo en el formulario de registro de socio y pagar el 50% del coste de la suscripción anual (15 €) en el momento de renovar su cuota. [Mensaje del equipo de The Mirror con las novedades en la subscripción a The Mirror](http://gallery.mailchimp.com/c9856e3f931f78bb8d206fa1e/files/The_Mirror.pdf)**.
 
 Otra novedad es la **Tarjeta de Bienvenida, dirigida a aquellos que entran en contacto con la Enseñanza y la Comunidad por primera vez**, participando en los retiros (con el Maestro) u otros cursos organizados por un Ling o por el Gar. Es una cuota anual no renovable de 25 euros; permite el acceso gratuito a un día del primer retiro, y a todos los centros de la Comunidad en Europa. **En el caso de que la persona decida pasarse a alguna de las modalidades de socio antes del final del año, el coste de la Tarjeta de Bienvenida será deducido de la cuota correspondiente a la modalidad de socio elegida**.
 
-Finalmente, es necesario adjuntar una fotografía tipo carnet junto al formulario de registro. Recomendamos que la imagen tenga un tamaño máximo de 50 Kb. El procedimiento para añadir la foto en el formulario es muy sencillo: 1)Hacer click en seleccionar archivo, 2) seleccionar la foto dentro de la carpeta correspondiente de su ordenador y 3) Hacer click en "Upload".
+Finalmente, es necesario adjuntar una fotografía tipo carnet junto al formulario de registro. Recomendamos que la imagen tenga un tamaño máximo de 50 Kb. El procedimiento para añadir la foto en el formulario es muy sencillo: 
+
+1. Hacer click en seleccionar archivo, 
+2. seleccionar la foto dentro de la carpeta correspondiente de su ordenador y 
+3. Hacer click en "Upload".
 
 PROCEDIMIENTO PARA PAGAR O RENOVAR LA CUOTA DE SOCIO:
 
