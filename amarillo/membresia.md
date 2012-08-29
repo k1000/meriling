@@ -40,4 +40,4 @@ El titular de la cuenta es: Asociación Cultural de la Comunidad Dzogchen en Esp
 
 Al hacer el ingreso, indica tu nombre y tipo de socio (reducido, ordinario, sostenedor o benemérito). Una vez realizado el ingreso, enviar un mensaje por e-mail comunicando el pago al Gakyil Amarillo al siguiente email: <aurora.amarillo@meriling.es> o <tinguaro.amarillo@meriling.es>
 
-Si por alguna circunstancia un practicante prefiere renovar su membresía en Kundusling se ruega que se ponga en contacto con su Gakyil amarillo.
+Si por alguna circunstancia un practicante prefiere renovar su membresía en Kundusling se ruega que se ponga en contacto con su Gakyil amarillo <sol.amarillo@dzogchen.es>.
