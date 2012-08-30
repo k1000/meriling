@@ -7,7 +7,7 @@ title: Membresía del Meriling
 En este nuevo año del dragón surge la especial circustancia que los practicantes Dzochen en Canarias pueden **renovar la membría en Meriling** - el Ling de la Comunidad Dzogchen de Canarias.
 Aunque realizando su renovación seguiran siendo miembros de la Asociación Cultural Comunidad Dzogchen de España, efectuando la renovación y pagando la correspondiente cuota a través de Meriling contrubuyen a dortalo de los medios necesarios para realizar sus actividades.
 
-La Comunidad Dzogchen en esencia no es una organización jerarquica, pero Meriling a nivel formal administrativo pertenece a la Asociación Cultural Comunidad Dzogchen de España,que es la entidad juridíca a través de la cual la Comunidad Dzogchen articula sus actividades en ESpaña. A nivel organizativo, junto con Kundusling y el resto de lings de Europa occidental, forma parte de Merigar West, donde cada Ling disfruta de su autonomía y no entra en relación de dependecia entre si. Así al renovar tu cuota de socio a través de Meriling, pasarás a ser socio de la Asociación Cultural Comunidad Dzogchen España, destinándose una parte de tu cuota al sostenimiento económico de Meriling y otra parte se enviará a Merigar West para sostener las actividades y servicios que el Gar presta a todos sus miembros.
+La Comunidad Dzogchen en esencia no es una organización jerarquica, pero Meriling a nivel formal administrativo pertenece a la Asociación Cultural Comunidad Dzogchen de España,que es la entidad juridíca a través de la cual la Comunidad Dzogchen articula sus actividades en España. A nivel organizativo, junto con Kundusling y el resto de lings de Europa occidental, forma parte de Merigar West, donde cada Ling disfruta de su autonomía y no entra en relación de dependecia entre si. Así al renovar tu cuota de socio a través de Meriling, pasarás a ser socio de la Asociación Cultural Comunidad Dzogchen España, destinándose una parte de tu cuota al sostenimiento económico de Meriling y otra parte se enviará a Merigar West para sostener las actividades y servicios que el Gar presta a todos sus miembros.
 
 Al hacer la renovación, en primer lugar, **es muy importante que todos y cada uno de los miembros de la Comunidad Dzogchen en España rellenen el nuevo formulario para los miembros de la comunidad con la información requerida desde Merigar West**.
 
@@ -21,8 +21,11 @@ Para cada miembro que de su consentimiento voluntariamente al sistema unificado,
 ###Cuota de socio de la Comunidad – Merigar West
 
 El carnet de **socio ordinario** cuesta 129 euros al año, con un descuento del 20% en cursos* y retiros, una suscripción al Mirror on-line mensual y a la revista Merigar Letter.
+
 El **carnet de socio sostenedor** cuesta 500 euros, ofrece todos los cursos* y retiros en Europa al 80%. Además, el socio sostenedor también tiene derecho al empleo GRATUITO de las casitas para los retiros personales, a una suscripción al Mirror on-line, al Merigar Letter, y a una suscripción del Vídeo Journal con un 50% de descuento.
+
 El carnet de **socio benemérito** cuesta 1500 euros, con todos los descuentos previstos para los sostenedores, un descuento del 100% en todos los cursos y retiros, así como sobre las publicaciones nuevas de las Ediciones Shang Shung en este año y una suscripción gratuita al Video Journal. También tienen un regalo especial.
+
 El carnet de **socio reducido**, con un precio de 50 euros, es para los miembros que demuestren tener una renta mensual inferior a los 700 euros y tienen un 50% de descuento en cursos* y retiros, así como una suscripción al Mirror onĺine.
 
 Además de este miembro muy básico unificado, también existe la posibilidad de ser **miembro de apoyo del Instituto Shang Shung por una cuota anual de 50 euros**. Más información [AQUI](http://kundusling.squarespace.com/blog-comunidad-dzogchen/2012/2/8/campaa-2012-membresia-de-shang-shung-institute.html).
