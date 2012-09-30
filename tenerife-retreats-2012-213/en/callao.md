@@ -2,7 +2,7 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: azul maestros
-iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
+iframe: http://fs18.formsite.com/Kundusling/form9/index.html
 lang: en
 title: Retreat venue
 ---
@@ -23,14 +23,5 @@ For information, please feel free to:
 On this phone number that will be always on “Ready to FLY” will respond on English/ Spanish/ Italian and Russian  language in order to give all the necessary information to the participants.      
 
 Ready To Fly S.r.l.Corso Buenos Aires 56 - 20124 Milano – ITALY 
-
-<a name="form286202867" id="formAnchor286202867"></a>
-<script type="text/javascript" src="http://fs18.formsite.com/include/form/embedManager.js?286202867"></script>
-<script type="text/javascript">
-EmbedManager.embed({
-	key: "http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867",
-	width: "100%"
-});
-</script>
 
 

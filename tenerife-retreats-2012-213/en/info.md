@@ -111,7 +111,7 @@ It's possible to attend separate day paying 50€
 
 Place: [Grand Hotel Callao](/tenerife-retreats-2012-213/en/callao)
 
-###Retiro Guru Dragphur - teachings & practice
+###Guru Dragphur - teachings & practice
 *26 December 2012 - 1 January 2013*
 
 The main purpose for practising the various manifestations of the Sambhogakaya is to obtain total realization or the real knowledge of one’s potentiality through the experience of clarity.
