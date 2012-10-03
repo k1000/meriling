@@ -37,7 +37,7 @@ Prices:
 - Ordinary member 120€
 - Reduced member (-50%) 60€
 
-Place: Meriling / Punta del Hidalgo - Tenerife
+Place: [Hotel Oceano](/tenerife-retreats-2012-213/en/punta) - Punta del Hidalgo - Tenerife
 
 ###Vajra Dance instructors meeting
 *2 - 7 Noviember 2012*
