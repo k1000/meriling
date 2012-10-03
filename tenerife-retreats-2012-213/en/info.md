@@ -26,8 +26,7 @@ Dzogchen Community Members:
 
 It's possible to attend separate one day paying 50€
 
-Place: Punta del Hidalgo - Tenerife
-Hotel Oceano - Punta del Hidalgo - Tenerife
+Place: [Hotel Oceano](/tenerife-retreats-2012-213/en/punta) - Punta del Hidalgo - Tenerife
 
 ###Base SMS Retreat with Jim Valby
 *2 - 6 Noviember 2012*

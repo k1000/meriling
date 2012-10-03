@@ -3,7 +3,7 @@ layout: azul
 categories: azul maestros
 iframe: http://fs18.formsite.com/Kundusling/form9/index.html
 lang: es
-title: Retreat venue
+title: Lugar del Retiro
 ---
 ##Lugar - Hotel Océano
 [Hotel Océano Vitality Hotel & Medical Spa](http://www.oceano.de/es/hotel.html)

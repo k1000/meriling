@@ -2,7 +2,7 @@
 layout: azul
 image: callao-salvaje.jpg
 categories: azul maestros
-iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
+iframe: http://fs18.formsite.com/Kundusling/form9/index.html
 lang: cn
 title: 閉關場地
 ---
@@ -24,12 +24,3 @@ title: 閉關場地
 來對所有參與者提供其所需要的一切資訊。
 
 “準備飛行”S.r.l.Corso Buenos Aires 56 - 20124 Milano – ITALY
-
-<a name="form286202867" id="formAnchor286202867"></a>
-<script type="text/javascript" src="http://fs18.formsite.com/include/form/embedManager.js?286202867"></script>
-<script type="text/javascript">
-EmbedManager.embed({
-	key: "http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867",
-	width: "100%"
-});
-</script>

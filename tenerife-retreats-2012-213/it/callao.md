@@ -1,9 +1,9 @@
-﻿---
+---
 layout: azul
 image: callao-salvaje.jpg
 categories: reserva lugar retiro
 lang: it
-iframe: http://fs18.formsite.com/res/showFormEmbed?EParam=B6fiTn%2BRcO6x%2FPtlRui7eqw01a9RmQhU&286202867&EmbedId=286202867
+iframe: http://fs18.formsite.com/Kundusling/form9/index.html
 title: Ritiri al Grand Hotel Callao
 ---
 [info hotel](http://www.hotelgrandcallao.com/)

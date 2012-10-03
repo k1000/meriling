@@ -8,6 +8,18 @@ title: Ritiri al Hotel Océano
 ##Localizzazione - Hotel Océano
 [Hotel Océano](http://www.oceano.de/es/hotel.html)
 
+Calle Océano Pacífico, 1
+
+E-38240 Punta del Hidalgo
+
+(Tenerife - Islas Canarias)
+
+- Tel.: +34 (0) 922 - 15 60 00
+- Fax: +34 (0) 922 - 15 63 52
+- Email: <info@oceano-tenerife.com>
+
+You can make [online reservation too](http://www.oceano.de/en/precios/reservar-online.html)
+
 ##Prenotazioni
 
 Quest'anno collaboriamo con professionali per offrirti il migliore servizio possibile.
