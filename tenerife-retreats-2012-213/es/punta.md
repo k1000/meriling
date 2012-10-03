@@ -9,14 +9,16 @@ title: Retreat venue
 [Hotel Océano Vitality Hotel & Medical Spa](http://www.oceano.de/es/hotel.html)
 
 Calle Océano Pacífico, 1
+
 E-38240 Punta del Hidalgo
+
 (Tenerife - Islas Canarias)
 
 Aquellos interesados en alojarse en el hotel pueden contactar:
 
 - Tel.: +34 (0) 922 - 15 60 00
 - Fax: +34 (0) 922 - 15 63 52
-- Email: info@oceano-tenerife.com
+- Email: <info@oceano-tenerife.com>
 
 También pueden hacer [su reserva online](http://www.oceano.de/es/precios/reservar-online.html)
 
