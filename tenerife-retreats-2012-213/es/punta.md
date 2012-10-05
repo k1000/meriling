@@ -1,5 +1,6 @@
 ---
 layout: azul
+image: 4803_oceano_hotel_medical_spa_0241585.jpg
 categories: azul maestros
 iframe: http://fs18.formsite.com/Kundusling/form9/index.html
 lang: es
