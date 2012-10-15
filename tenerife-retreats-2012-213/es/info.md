@@ -5,13 +5,12 @@ lang: es
 title: Agenda de los Retiros y otros eventos en Tenerife año 2012/13
 ---
 ###Acto oficial de la apertura de los eventos en Tenerife
-*22 Octubre 2012*
+*22 Octubre 2012*, 19 horas
 
-Universidad de La Laguna
+**Conferencia pública** del Rinpoche con el título **"Dzogchen en el mundo moderno"**
 
-**Rueda de prensa** con la presencia del Maestro Chögyal Namkhai Norbu con invitadas autoridades, políticos y los periodistas. Rinpoche presentará la Comunidad, el programa de los Eventos y responderá a las preguntas.
-
-**Conferencia pública** del Rinpoche con el título **"Dzogchen en el mundo moderno"**.
+San Cristobal de La Laguna, Campus de Guajara
+Facultad de Periodismo - “La Pirámide” 
 
 ###Retiro Longsal Ati Gonpa Ngotrod
 *26 - 30 Octubre 2012*

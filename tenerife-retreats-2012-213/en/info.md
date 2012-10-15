@@ -4,6 +4,14 @@ categories: azul retiros
 title: Retreats and other events in Tenerife 2012/13
 lang: en
 ---
+###Opening Act of Tenerife Events
+*22 Octubre 2012*, 19 h
+
+Public Conference **"Dzogchen in Modern World"** by Chögyal Namkhai Norbu in La Laguna University
+
+Place: San Cristobal de La Laguna, Campus de Guajara
+Facultad de Periodismo - “La Pirámide”
+
 ###Longsal Ati Gonpa Ngotrod Retreat
 *26 - 30 Octuber 2012*
 
