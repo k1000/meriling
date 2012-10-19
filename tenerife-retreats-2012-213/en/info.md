@@ -21,6 +21,8 @@ The Upadesha of Introduction to the State of Ati (A ti'i dgongs pa ngo sprod kyi
 
 [Check out detailed program of activities](https://docs.google.com/spreadsheet/pub?key=0AgWx3a78pFX_dFlnZWNDR2laYWx4T3RJZVV5bkVNUmc&output=html)
 
+[Closed Webcast. You must be member of Dzogchen Community to access.](http://meriling.es/rojo/webcast).
+
 No members prices:
 
 - Regular registration 220€

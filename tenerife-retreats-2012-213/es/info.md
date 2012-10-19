@@ -22,6 +22,8 @@ La Upadesha de la Introdución al Estado Ati (*A ti'i dgongs pa ngo sprod kyi ma
 
 [Consulten aqui el programa actualizado](https://docs.google.com/spreadsheet/pub?key=0AgWx3a78pFX_dGJYNDhpVHNuSDF0MEpGT1lwQWxrN0E&single=true&gid=0&range=A1:F8&output=html).
 
+[Webcast cerrada. Para acceder hay que ser miembro de la Comunidad Dzogchen](http://meriling.es/rojo/webcast).
+
 Precios no miembros:
 
 - Inscripción regular - 220€
