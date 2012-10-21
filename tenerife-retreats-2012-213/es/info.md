@@ -17,8 +17,7 @@ Facultad de Periodismo - “La Pirámide”
 
 [Hotel Oceano - Punta del Hidalgo - Tenerife](/tenerife-retreats-2012-213/es/punta)
 
-La Upadesha de la Introdución al Estado Ati (*A ti'i dgongs pa ngo sprod kyi man ngag*), escrita en 1983, es la extraordinaria enseñanza del gran Maestro Vairochana (VII siglo) que introduce el autentico principio de *Atiyoga* o *Dzogpa Chenpo*, presentando las esenciales instruciones de las Cuatro Contemplaciones del Semde y los fundamentales aspectos de la pureza primordial (*ka dag*) con la infinita potencialidad (*lhun grub*). Upadesha ha sido descubierta mediante los sueños de claridad y esta conectada directamente con el mismo Maestro Vairochana, el *maestro raiz* del autor guru Rigdzin Chang-chub Dorje (1826-1961) y su tío Khyentse Rinpoche Chökyi Wangchug (1910-1963) el cual era uno de sus maestros principales.
-*Adriano Clemente - "Preface of Longsal Teachings Vol. II May, 2001"
+Retiro “Longsal Ati Gonpa Ngotrod” esta dedicado a la “terma” - enseñanza tesoro descubierto mediante los sueños de claridad por Chögyal Namkhai Norbu. Presenta las instrucciones sobre Las Cuatro Contemplaciones del Semde. Los métodos de la serie Semde, serie de las enseñanzas de la mente, están particularmente útiles a los que se inician en el sendero del Dzogchen (La Perfección Total), permiten entrar en contacto y experimentar de primera mano estado de la pureza primordial de la mente y su infinita potencialidad. Esta extraordinaria enseñanza esta esta relacionada directamente con el gran maestro Vairochana y los principales maestros de Chögyal Namkhai Norbu: Rigdzin Chang-chub Dorje (1826-1961) y su tío Khyentse Rinpoche Chökyi Wangchug (1910-1963).
 
 [Consulten aqui el programa actualizado](https://docs.google.com/spreadsheet/pub?key=0AgWx3a78pFX_dGJYNDhpVHNuSDF0MEpGT1lwQWxrN0E&single=true&gid=0&range=A1:F8&output=html).
 

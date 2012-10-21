@@ -8,7 +8,7 @@ categories: maestros enseñanzas
 Dzogchen o Total perfección es la enseñanza y el método para descubrir el estado primordial y la condición natural que es propio de todos los seres sentientes.
 Por lo tanto es inherenta a la condición humana y transciende la rasa, sexo, religion o cultura. 
 Nuestra naturaleza última es conciencia primordial, pura, libre de todas las limitaciones y que abarca todo y a la vez puede manifestar infinita potencialidad. 
-Esta conciencia intrínseca no tiene forma ni es perceptible, experimentable o expresable en ninguna forma física.
+Esta conciencia intrínseca no tiene forma, ni es perceptible, experimentable o expresable en ninguna forma física.
 La analogía que dan los maestros Dzogchen es que la naturaleza es como un espejo que refleja con total claridad y nitidez pero al que no afectan los reflejos, o como una bola de cristal que toma el color del material donde se coloca sin cambiar ella misma en ningún momento de color.
 
 ##Enseñanzas

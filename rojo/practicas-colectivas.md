@@ -9,15 +9,15 @@ Ganapuja
 Otras Prácticas colectivas
 --------------------------
 
-- Práctica de Larga Vide de Mandarava
+- Larga Vida de Mandarava
 - Tara Verde - Guru Arya Tara
-- 21 oraciones a Tara
-- Garab Gorje - Guru Yoga de 'A' blanco
-- Semzin
-- Rushen - Practica de Six Locas
-- Practica de Larga Vide de Amitayus
+- 21 Oraciones a Tara
+- Garab Dorje - Guru Yoga de A blanco
+- Semdzin
+- Rushén - Práctica de los Seis Lokas
+- Larga Vide de Buda Amitayus
 - Sang
 - Shitro
-- Jnianaghakini
+- Jnianadhakini
 
 
