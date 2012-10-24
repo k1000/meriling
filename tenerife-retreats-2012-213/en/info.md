@@ -15,7 +15,7 @@ Facultad de Periodismo - “La Pirámide”
 ###Longsal Ati Gonpa Ngotrod Retreat
 *26 - 30 Octuber 2012*
 
-"Longsal Ngotrod Gonpa Ati" Retreat is dedicated to the "terma" - teaching treasure discovered by Chögyal Namkhai Norbu trugth his dreams of clarity. Presents instructions of The Four Contemplations of Semde. Semde series of teachings (Serie of the Mind), are particularly helpful to those who initiate the path of Dzogchen (Total Perfection), allows to connect and experience directly the state of primordial purity of the mind (ka dag) and its infinite potential (lhun grub). This extraordinary teaching is related directly to the grand master Vairochana and main teachers of Namkhai Norbu: Chang-chub Rigdzin Dorje (1826-1961) and his uncle Khyentse Rinpoche Chokyi Wangchug (1910-1963).
+The "Longsal Ngotrod Gonpa Ati" Retreat is dedicated to the terma (teaching treasure) discovered by Chögyal Namkhai Norbu through his dreams of clarity. It contains the instructions of The Four Contemplations of Semde. Semde series of teachings (Series of the Mind) are particularly helpful to those who initiate the path of Dzogchen (Total Perfection), allowing to connect and experience directly the state of primordial purity of the mind (ka dag) and its infinite potential (lhun grub). This extraordinary teaching is related directly to the great Master Vairochana and the main teachers of Chögyal Namkhai Norbu: Chang-chub Rigdzin Dorje (1826-1961) and his uncle Khyentse Rinpoche Chokyi Wangchug (1910-1963).
 
 [Check out detailed program of activities](https://docs.google.com/spreadsheet/pub?key=0AgWx3a78pFX_dFlnZWNDR2laYWx4T3RJZVV5bkVNUmc&output=html)
 
