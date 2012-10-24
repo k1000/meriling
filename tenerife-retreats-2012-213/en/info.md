@@ -15,9 +15,7 @@ Facultad de Periodismo - “La Pirámide”
 ###Longsal Ati Gonpa Ngotrod Retreat
 *26 - 30 Octuber 2012*
 
-The Upadesha of Introduction to the State of Ati (A ti'i dgongs pa ngo sprod kyi man ngag) written down in 1983, is an extraordinary teaching of the great lotsava Vairochana (VIII century) introducing the authentic principle of Atiyoga or Dzogpa Chenpo, in particular presenting essential instructions on the Four Contemplations of Semde and on the fundamental aspects of primordial purity (ka dag) and self-perfection (lhun grub). The dreams through which the upadesha was discovered are connected to the master Vairochana himself, to the author's root guru Rigdzin Chang-chub Dorje (1826-1961) and to his uncle Khyentse Rinpoche Chökyi Wangchug (1910-1963), who was also one of his main teachers.
-
-*Adriano Clemente Preface of Longsal Teachings, Vol. II May, 2001*
+"Longsal Ngotrod Gonpa Ati" Retreat is dedicated to the "terma" - teaching treasure discovered by Chögyal Namkhai Norbu trugth his dreams of clarity. Presents instructions of The Four Contemplations of Semde. Semde series of teachings (Serie of the Mind), are particularly helpful to those who initiate the path of Dzogchen (Total Perfection), allows to connect and experience directly the state of primordial purity of the mind (ka dag) and its infinite potential (lhun grub). This extraordinary teaching is related directly to the grand master Vairochana and main teachers of Namkhai Norbu: Chang-chub Rigdzin Dorje (1826-1961) and his uncle Khyentse Rinpoche Chokyi Wangchug (1910-1963).
 
 [Check out detailed program of activities](https://docs.google.com/spreadsheet/pub?key=0AgWx3a78pFX_dFlnZWNDR2laYWx4T3RJZVV5bkVNUmc&output=html)
 
